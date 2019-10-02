@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1,SPORT TVHD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_9f1de164407592497272bdb5b80199f24fa9f415.m3u8
+#EXTINF:-1,HBO PLUS
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_7daa67a308ef310f28df8c69ff89c6633204db75/playlist.m3u8
+#EXTINF:-1,TV GLOBO
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_f5f7cc0e9c735374c894f424fd5e00a12f380e46/playlist.m3u8
+#EXTINF:-1,TV GLOBO SP
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_54adb2a22615e47c105878110a43be8e8a4c36fd/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORKING
+http://edge.aovivo.club/hls/s:155.138.227.45/cartoonnetwork_511a418e_9cc5edf7825e285e014bafca256a583ff10759a9/410p_690kbit/chunklist.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://edge.aovivo.club/hls/s:155.138.227.45/disneyjunior_572e2073_123d56cd381eb5933e0815a07a6001e9b53f1a03/480p/chunklist.m3u8
+#EXTINF:-1,DISNEY CHANEL
+http://edge.aovivo.club/hls/s:45.32.217.66/disneychannel_a9334987_0306dace794d0c4782026c7a46dbe68066b5d8c4/410p/chunklist.m3u8
+#EXTINF:-1,GLOOB
+http://edge.aovivo.club/hls/s:45.32.217.66/gloob_04f1241e_a6cca3472c676627d442eeaae6a847c17750c9bb/410p/chunklist.m3u8
+#EXTINF:-1,NIKELODEON
+http://edge.aovivo.club/hls/s:155.138.227.156/nickelodeon_bc33ea4e_c96a09c7b2db1dc04da437d2ec62c9644367ab19/410p/chunklist.m3u8
+#EXTINF:-1,NIKE JR
+http://edge.aovivo.club/hls/s:155.138.227.45/nickjr_54ceb912_c7a1f8c77246bca2a849ae8bf151cce9786951bd/410p/chunklist.m3u8
+#EXTINF:-1,TOONCAST
+http://edge.aovivo.club/hls/s:45.32.217.66/tooncast_8effee40_520a8abecd843076cd90b52500470b6089e1df8f/480p_750kbit/chunklist.m3u8
+#EXTINF:-1,FOX SPORTHD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_904e3a60eefc6366fc0a0f653f82924ef67827b4.m3u8
+#EXTINF:-1,LA CASA DE PAPEL
+https://r5---sn-bg0ezn7z.googlevideo.com/videoplayback?expire=1569996858&ei=us-TXZupGIz78gTCjaSwAQ&ip=194.48.152.52&id=0493119be16ec0c3&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2848.438&lmt=1516047289943689&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ALgxI2wwRQIhAMSvFS7TI2AhLOQhyUKprx_sVMrf2uTBv4Aon64MWbMBAiBrlzwOGSq3vGUY5juQa64KKv9ZJagdk1BMg52lmMCffA%3D%3D&rm=sn-u3h5gvnoxu-qhxe7l,sn-n8vry76&req_id=d8237afbc51836e2&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=167.250.74.254&mm=29&mn=sn-bg0ezn7z&ms=rdu&mt=1569967970&mv=m&mvi=4&pl=23&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgVIfd59dDMC21_YZmc-8WeeqzGoXaBitOR1tzwL53BFoCIHSar7ntRYRf5Qs4C7uF_XhrHSX7iH-_S5D8i363OPLV
+#EXTINF:-1, A&E @
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTINF:-1, A&E
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTINF:-1, AXN @
+http://hvod.imirun.net:8080/AXN-HD/index.m3u8
+#EXTINF:-1, BAND NEWS @
+http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
+#EXTINF:-1, BAND SPORT @
+http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+#EXTINF:-1, BOOMERANG @
+http://playback.imirun.net:8080/Boomerang-HD/index.m3u8
+#EXTINF:-1, CARTON NETWORK @
+http://playback.imirun.net:8080/CartoonNetwork-HD/index.m3u8
+#EXTINF:-1, COMBATE @
+http://hvod.imirun.net:8080/Combate-HD/index.m3u8
+#EXTINF:-1, ESPN BRASIL @
+http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+#EXTINF:-1,  FOX @
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTINF:-1, FX @
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+#EXTINF:-1, FOX CHANNEL @
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTINF:-1, GLOBO NEWS @
+http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
+#EXTINF:-1, GLOOB @
+http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
+#EXTINF:-1, HBO @
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+#EXTINF:-1,  PREMIER 2 @
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+#EXTINF:-1,  PREMIER 3 @
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+#EXTINF:-1,  PREMIER 4 @
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+#EXTINF:-1,  PREMIER 5 @
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+#EXTINF:-1,  PREMIER 6 @
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+#EXTINF:-1,  TNT @
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTINF:-1,  UNIVERSAL @
+http://hvod.imirun.net:8080/UniversalChannelHD/index.m3u8
