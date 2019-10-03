@@ -1,1041 +1,2033 @@
 #EXTM3U
-
-
-#EXTINF:-1,A&E
-http://clienteworld.com:8080/Lucas1/123456/8156
-#EXTINF:-1,A&E Â²
-http://clienteworld.com:8080/Lucas1/123456/12719
-#EXTINF:-1,A&E HD
-http://clienteworld.com:8080/Lucas1/123456/8241
-#EXTINF:-1,A&E HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12720
 #EXTINF:-1,A&E FHD
-http://clienteworld.com:8080/Lucas1/123456/28249
-#EXTINF:-1,AMC
-http://clienteworld.com:8080/Lucas1/123456/8155
-#EXTINF:-1,AMC Â²
-http://clienteworld.com:8080/Lucas1/123456/12717
-#EXTINF:-1,AMC HD
-http://clienteworld.com:8080/Lucas1/123456/8240
-#EXTINF:-1,AMC HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12718
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2025.m3u8
+#EXTINF:-1,A&E FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25400.m3u8
+#EXTINF:-1,A&E FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29484.m3u8
+#EXTINF:-1,A&E HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1906.m3u8
+#EXTINF:-1,A&E HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2402.m3u8
+#EXTINF:-1,A&E SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1907.m3u8
+#EXTINF:-1,A&E SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2215.m3u8
+#EXTINF:-1,Aladdin [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2100.m3u8
 #EXTINF:-1,AMC FHD
-http://clienteworld.com:8080/Lucas1/123456/28248
-#EXTINF:-1,ANIMAL PLANET
-http://clienteworld.com:8080/Lucas1/123456/8154
-#EXTINF:-1,ANIMAL PLANET Â²
-http://clienteworld.com:8080/Lucas1/123456/51984
-#EXTINF:-1,ANIMAL PLANET HD
-http://clienteworld.com:8080/Lucas1/123456/8239
-#EXTINF:-1,ANIMAL PLANET HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12736
-#EXTINF:-1,ANIMAL  PLANET FHD
-http://clienteworld.com:8080/Lucas1/123456/28247
-#EXTINF:-1,ANIMAL PLANET FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12735
-#EXTINF:-1,ARTE 1
-http://clienteworld.com:8080/Lucas1/123456/8153
-#EXTINF:-1,ARTE 1 HD
-http://clienteworld.com:8080/Lucas1/123456/8152
-#EXTINF:-1,ARTE 1 FHD
-http://clienteworld.com:8080/Lucas1/123456/28246
-#EXTINF:-1,ARTE 1 FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12953
-#EXTINF:-1,AXN
-http://clienteworld.com:8080/Lucas1/123456/8151
-#EXTINF:-1,AXN Â²
-http://clienteworld.com:8080/Lucas1/123456/12721
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2024.m3u8
+#EXTINF:-1,AMC FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25399.m3u8
+#EXTINF:-1,AMC FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29483.m3u8
+#EXTINF:-1,AMC HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1904.m3u8
+#EXTINF:-1,AMC HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2401.m3u8
+#EXTINF:-1,AMC SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1905.m3u8
+#EXTINF:-1,AMC SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2214.m3u8
+#EXTINF:-1,Animal Planet 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28663.m3u8
+#EXTINF:-1,Animal Planet FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2023.m3u8
+#EXTINF:-1,Animal Planet FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25472.m3u8
+#EXTINF:-1,Animal Planet FHD [H265] [Alter] 
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29482.m3u8
+#EXTINF:-1,Animal Planet HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1902.m3u8
+#EXTINF:-1,Animal Planet HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2400.m3u8
+#EXTINF:-1,Animal Planet SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1903.m3u8
+#EXTINF:-1,Animal Planet SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2213.m3u8
+#EXTINF:-1,Arte 1 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2022.m3u8
+#EXTINF:-1,Arte 1 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25471.m3u8
+#EXTINF:-1,Arte 1 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1900.m3u8
+#EXTINF:-1,Arte 1 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1901.m3u8
+#EXTINF:-1,Arte 1 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2113.m3u8
+#EXTINF:-1,As Meninas Superpoderosas [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2099.m3u8
+#EXTINF:-1,As Tartarugas Ninja [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2098.m3u8
+#EXTINF:-1,AXN FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2021.m3u8
+#EXTINF:-1,AXN FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25470.m3u8
+#EXTINF:-1,AXN FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29481.m3u8
 #EXTINF:-1,AXN HD
-http://clienteworld.com:8080/Lucas1/123456/8238
-#EXTINF:-1,AXN HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12722
-#EXTINF:-1,BABY TV
-http://clienteworld.com:8080/Lucas1/123456/8237
-#EXTINF:-1,BABY TV Â²
-http://clienteworld.com:8080/Lucas1/123456/51991
-#EXTINF:-1,BAND
-http://clienteworld.com:8080/Lucas1/123456/8150
-#EXTINF:-1,BAND HD
-http://clienteworld.com:8080/Lucas1/123456/294
-#EXTINF:-1,BAND SP Â²
-http://clienteworld.com:8080/Lucas1/123456/12882
-#EXTINF:-1,BAND SP FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28177
-#EXTINF:-1,BAND 4K  H265 Â²
-http://clienteworld.com:8080/Lucas1/123456/53891
-#EXTINF:-1,BAND NEWS
-http://clienteworld.com:8080/Lucas1/123456/8149
-#EXTINF:-1,BAND NEWS HD
-http://clienteworld.com:8080/Lucas1/123456/8148
-#EXTINF:-1,BAND NEWS HDÂ²
-http://clienteworld.com:8080/Lucas1/123456/73884
-#EXTINF:-1,BAND NEWS FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/13090
-#EXTINF:-1,BAND NEWS FHD
-http://clienteworld.com:8080/Lucas1/123456/28244
-#EXTINF:-1,BAND SPORTS
-http://clienteworld.com:8080/Lucas1/123456/8147
-#EXTINF:-1,BAND SPORTS Â²
-http://clienteworld.com:8080/Lucas1/123456/51958
-#EXTINF:-1,BAND SPORTS H265 Â²
-http://clienteworld.com:8080/Lucas1/123456/12725
-#EXTINF:-1,BAND SPORTS HD
-http://clienteworld.com:8080/Lucas1/123456/8236
-#EXTINF:-1,BAND SPORTS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12726
-#EXTINF:-1,BAND SPORTS FHD
-http://clienteworld.com:8080/Lucas1/123456/28243
-#EXTINF:-1,Barretos ao vivo
-http://clienteworld.com:8080/Lucas1/123456/66348
-#EXTINF:-1,BIS
-http://clienteworld.com:8080/Lucas1/123456/8146
-#EXTINF:-1,BIS Â²
-http://clienteworld.com:8080/Lucas1/123456/51989
-#EXTINF:-1,BIS HD
-http://clienteworld.com:8080/Lucas1/123456/8235
-#EXTINF:-1,BIS FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28176
-#EXTINF:-1,BOA VONTADE TV Â²
-http://clienteworld.com:8080/Lucas1/123456/51988
-#EXTINF:-1,BOA VONTADE HD
-http://clienteworld.com:8080/Lucas1/123456/4660
-#EXTINF:-1,BLOOMBERG Â²
-http://clienteworld.com:8080/Lucas1/123456/51962
-#EXTINF:-1,BOOMERANG
-http://clienteworld.com:8080/Lucas1/123456/8145
-#EXTINF:-1,BOOMERANG HD
-http://clienteworld.com:8080/Lucas1/123456/8144
-#EXTINF:-1,BOOMERANG HD Â²
-http://clienteworld.com:8080/Lucas1/123456/18002
-#EXTINF:-1,CNN INTERNACIONALÂ²
-http://clienteworld.com:8080/Lucas1/123456/18978
-#EXTINF:-1,CANAL BRASIL
-http://clienteworld.com:8080/Lucas1/123456/8143
-#EXTINF:-1,CANAL BRASIL Â²
-http://clienteworld.com:8080/Lucas1/123456/51980
-#EXTINF:-1,CANAL BRASIL HD
-http://clienteworld.com:8080/Lucas1/123456/8234
-#EXTINF:-1,CANAL BRASIL FHD
-http://clienteworld.com:8080/Lucas1/123456/28144
-#EXTINF:-1,CANAL BRASIL FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12962
-#EXTINF:-1,CANAL SONY
-http://clienteworld.com:8080/Lucas1/123456/8142
-#EXTINF:-1,CANAL SONY HD
-http://clienteworld.com:8080/Lucas1/123456/8141
-#EXTINF:-1,CANAL SONY FHD
-http://clienteworld.com:8080/Lucas1/123456/28241
-#EXTINF:-1,CANAL SONY FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12716
-#EXTINF:-1,CANÃ‡ÃƒO NOVA
-http://clienteworld.com:8080/Lucas1/123456/8233
-#EXTINF:-1,CANCAO NOVA Â²
-http://clienteworld.com:8080/Lucas1/123456/51966
-#EXTINF:-1,CARTOON NETWORK
-http://clienteworld.com:8080/Lucas1/123456/8140
-#EXTINF:-1,CARTOON NETWORK HD
-http://clienteworld.com:8080/Lucas1/123456/8232
-#EXTINF:-1,CARTOON NETWORK FHD
-http://clienteworld.com:8080/Lucas1/123456/28240
-#EXTINF:-1,CARTOON NETWORK FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/13084
-#EXTINF:-1,CBN RADIO Â²
-http://clienteworld.com:8080/Lucas1/123456/47677
-#EXTINF:-1,CBS NEWS HD
-http://clienteworld.com:8080/Lucas1/123456/47674
-#EXTINF:-1,CINEMAX
-http://clienteworld.com:8080/Lucas1/123456/8139
-#EXTINF:-1,CINEMAX Â²
-http://clienteworld.com:8080/Lucas1/123456/51961
-#EXTINF:-1,CINEMAX HD
-http://clienteworld.com:8080/Lucas1/123456/8231
-#EXTINF:-1,CINEMAX FHD
-http://clienteworld.com:8080/Lucas1/123456/28239
-#EXTINF:-1,COMBATE
-http://clienteworld.com:8080/Lucas1/123456/8138
-#EXTINF:-1,COMBATE Â²
-http://clienteworld.com:8080/Lucas1/123456/51977
-#EXTINF:-1,COMBATE HD
-http://clienteworld.com:8080/Lucas1/123456/8230
-#EXTINF:-1,COMBATE HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12724
-#EXTINF:-1,COMBATE FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28175
-#EXTINF:-1,COMBATE 4k Â²
-http://clienteworld.com:8080/Lucas1/123456/53417
-#EXTINF:-1,COMBATE 4K
-http://clienteworld.com:8080/Lucas1/123456/28271
-#EXTINF:-1,COMEDY CENTRAL
-http://clienteworld.com:8080/Lucas1/123456/8137
-#EXTINF:-1,COMEDY CENTRAL Â²
-http://clienteworld.com:8080/Lucas1/123456/51981
-#EXTINF:-1,COMEDY CENTRAL HD
-http://clienteworld.com:8080/Lucas1/123456/8229
-#EXTINF:-1,COMEDY CENTRAL HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13079
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://clienteworld.com:8080/Lucas1/123456/28238
-#EXTINF:-1,CURTA!
-http://clienteworld.com:8080/Lucas1/123456/8136
-#EXTINF:-1,CURTA! Â²
-http://clienteworld.com:8080/Lucas1/123456/51979
-#EXTINF:-1,CURTA! HD
-http://clienteworld.com:8080/Lucas1/123456/8135
-#EXTINF:-1,CURTA! FHD
-http://clienteworld.com:8080/Lucas1/123456/28237
-#EXTINF:-1,DISCOVERY CHANNEL
-http://clienteworld.com:8080/Lucas1/123456/8134
-#EXTINF:-1,DISCOVERY CHANNEL Â²
-http://clienteworld.com:8080/Lucas1/123456/53381
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://clienteworld.com:8080/Lucas1/123456/8228
-#EXTINF:-1,DISCOVERY CHANNEL HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12741
-#EXTINF:-1,DISCOVERY CHANNEL FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28174
-#EXTINF:-1,DISCOVERY CHANNEL 4K Â²
-http://clienteworld.com:8080/Lucas1/123456/53894
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://clienteworld.com:8080/Lucas1/123456/8133
-#EXTINF:-1,DISCOVERY CIVILIZATION Â²
-http://clienteworld.com:8080/Lucas1/123456/51978
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://clienteworld.com:8080/Lucas1/123456/8227
-#EXTINF:-1,DISCOVERY CIVILIZATION FHD
-http://clienteworld.com:8080/Lucas1/123456/28236
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://clienteworld.com:8080/Lucas1/123456/8132
-#EXTINF:-1,DISCOVERY HOME & HEALTH Â²
-http://clienteworld.com:8080/Lucas1/123456/51954
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://clienteworld.com:8080/Lucas1/123456/8226
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-http://clienteworld.com:8080/Lucas1/123456/28235
-#EXTINF:-1,DISCOVERY KIDS
-http://clienteworld.com:8080/Lucas1/123456/8131
-#EXTINF:-1,DISCOVERY KIDS Â²
-http://clienteworld.com:8080/Lucas1/123456/51953
-#EXTINF:-1,DISCOVERY KIDS HD
-http://clienteworld.com:8080/Lucas1/123456/8225
-#EXTINF:-1,DISCOVERY KIDS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12749
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://clienteworld.com:8080/Lucas1/123456/28234
-#EXTINF:-1,DISCOVERY SCIENCE
-http://clienteworld.com:8080/Lucas1/123456/8130
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://clienteworld.com:8080/Lucas1/123456/8129
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://clienteworld.com:8080/Lucas1/123456/28233
-#EXTINF:-1,DISCOVERY THEATER
-http://clienteworld.com:8080/Lucas1/123456/8128
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://clienteworld.com:8080/Lucas1/123456/28232
-#EXTINF:-1,DISCOVERY TURBO
-http://clienteworld.com:8080/Lucas1/123456/8127
-#EXTINF:-1,DISCOVERY TURBO FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12729
-#EXTINF:-1,DISCOVERY TURBO HD
-http://clienteworld.com:8080/Lucas1/123456/8223
-#EXTINF:-1,DISCOVERY TURBO HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12730
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://clienteworld.com:8080/Lucas1/123456/28231
-#EXTINF:-1,DISCOVERY WORLD
-http://clienteworld.com:8080/Lucas1/123456/8126
-#EXTINF:-1,DISCOVERY WORLD  HD
-http://clienteworld.com:8080/Lucas1/123456/8222
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://clienteworld.com:8080/Lucas1/123456/28230
-#EXTINF:-1,DISNEY CHANNEL HD
-http://clienteworld.com:8080/Lucas1/123456/8221
-#EXTINF:-1,DISNEY CHANNEL FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28173
-#EXTINF:-1,DISNEY CHANNEL FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12747
-#EXTINF:-1,DISNEY JUNIOR
-http://clienteworld.com:8080/Lucas1/123456/8124
-#EXTINF:-1,DISNEY JUNIOR Â²
-http://clienteworld.com:8080/Lucas1/123456/12744
-#EXTINF:-1,DISNEY JUNIOR HD
-http://clienteworld.com:8080/Lucas1/123456/14091
-#EXTINF:-1,DISNEY JR FHD
-http://clienteworld.com:8080/Lucas1/123456/28179
-#EXTINF:-1,DISNEY JUNIOR FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12745
-#EXTINF:-1,EI PLUS SD*
-http://clienteworld.com:8080/Lucas1/123456/45177
-#EXTINF:-1,EI PLUS HD*
-http://clienteworld.com:8080/Lucas1/123456/45178
-#EXTINF:-1,ESPORTE INTERATIVO HD  Â²
-http://clienteworld.com:8080/Lucas1/123456/47678
-#EXTINF:-1,E!
-http://clienteworld.com:8080/Lucas1/123456/8120
-#EXTINF:-1,E! HD
-http://clienteworld.com:8080/Lucas1/123456/8220
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1898.m3u8
+#EXTINF:-1,AXN HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2399.m3u8
+#EXTINF:-1,AXN HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1529.m3u8
+#EXTINF:-1,AXN SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1899.m3u8
+#EXTINF:-1,AXN SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2212.m3u8
+#EXTINF:-1,AXN SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1528.m3u8
+#EXTINF:-1,Baby TV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1897.m3u8
+#EXTINF:-1,Baby TV SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2211.m3u8
+#EXTINF:-1,Band Goiania FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29487.m3u8
+#EXTINF:-1,Band SP 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28672.m3u8
+#EXTINF:-1,Band SP FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1953.m3u8
+#EXTINF:-1,Band SP FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25398.m3u8
+#EXTINF:-1,Band SP HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1895.m3u8
+#EXTINF:-1,Band SP HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2398.m3u8
+#EXTINF:-1,Band SP SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1896.m3u8
+#EXTINF:-1,BandNews FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2020.m3u8
+#EXTINF:-1,BandNews FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25469.m3u8
+#EXTINF:-1,BandNews FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29423.m3u8
+#EXTINF:-1,BandNews HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1893.m3u8
+#EXTINF:-1,BandNews SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1894.m3u8
+#EXTINF:-1,BandNews SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2210.m3u8
+#EXTINF:-1,BandSports FHD 
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2019.m3u8
+#EXTINF:-1,BandSports FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25468.m3u8
+#EXTINF:-1,BandSports FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29422.m3u8
+#EXTINF:-1,BandSports HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1891.m3u8
+#EXTINF:-1,BandSports HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2397.m3u8
+#EXTINF:-1,BandSports SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1892.m3u8
+#EXTINF:-1,BandSports SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2209.m3u8
+#EXTINF:-1,Bis FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1952.m3u8
+#EXTINF:-1,Bis FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25467.m3u8
+#EXTINF:-1,Bis FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29421.m3u8
+#EXTINF:-1,Bis HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1889.m3u8
+#EXTINF:-1,Bis HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2396.m3u8
+#EXTINF:-1,Bis SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1890.m3u8
+#EXTINF:-1,Bis SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2121.m3u8
+#EXTINF:-1,Boa Vontade TV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25363.m3u8
+#EXTINF:-1,Boa Vontade TV HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1888.m3u8
+#EXTINF:-1,Bob Esponja [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2097.m3u8
+#EXTINF:-1,Boomerang FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2018.m3u8
+#EXTINF:-1,Boomerang FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25466.m3u8
+#EXTINF:-1,Boomerang FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29420.m3u8
+#EXTINF:-1,Boomerang HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1886.m3u8
+#EXTINF:-1,Boomerang SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1887.m3u8
+#EXTINF:-1,Boomerang SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2208.m3u8
+#EXTINF:-1,Breaking Bad [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2029.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1920.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25465.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29402.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1884.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1885.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2115.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1655.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2114.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2017.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25464.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29480.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1882.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2395.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1495.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1883.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2207.m3u8
+#EXTINF:-1,Satellite TV
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1494.m3u8
+#EXTINF:-1,Cancao Nova SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1881.m3u8
+#EXTINF:-1,Cancao Nova SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2107.m3u8
+#EXTINF:-1,Cartoon Network 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28662.m3u8
+#EXTINF:-1,Cartoon Network FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2016.m3u8
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25463.m3u8
+#EXTINF:-1,Cartoon Network FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29479.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1879.m3u8
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2394.m3u8
+#EXTINF:-1,Cartoon Network SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1880.m3u8
+#EXTINF:-1,Cartoon Network SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2112.m3u8
+#EXTINF:-1,Chapolin Colorado [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2027.m3u8
+#EXTINF:-1,Chaves Animado [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2094.m3u8
+#EXTINF:-1,Chicago [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2425.m3u8
+#EXTINF:-1,Cinemax FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2015.m3u8
+#EXTINF:-1,Cinemax FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25462.m3u8
+#EXTINF:-1,Cinemax FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29478.m3u8
+#EXTINF:-1,Cinemax HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1877.m3u8
+#EXTINF:-1,Cinemax HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2393.m3u8
+#EXTINF:-1,Cinemax SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1878.m3u8
+#EXTINF:-1,Cinemax SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2130.m3u8
+#EXTINF:-1,Combate 4K
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1491.m3u8
+#EXTINF:-1,Combate 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28671.m3u8
+#EXTINF:-1,Combate FHD iptvlinksplaylist
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1951.m3u8
+#EXTINF:-1,Combate FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25461.m3u8
+#EXTINF:-1,Combate FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29477.m3u8
+#EXTINF:-1,Combate https://www.iptvlinksplaylist.es
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1875.m3u8
+#EXTINF:-1,Combate HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2392.m3u8
+#EXTINF:-1,Combate SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1876.m3u8
+#EXTINF:-1,Combate SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2206.m3u8
+#EXTINF:-1,Comedy Central FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2014.m3u8
+#EXTINF:-1,Comedy Central FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25460.m3u8
+#EXTINF:-1,Comedy Central FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29476.m3u8
+#EXTINF:-1,Comedy Central HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1873.m3u8
+#EXTINF:-1,Comedy Central HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2391.m3u8
+#EXTINF:-1,Comedy Central SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1874.m3u8
+#EXTINF:-1,Comedy Central SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2205.m3u8
+#EXTINF:-1,Coragem [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2092.m3u8
+#EXTINF:-1,Curta FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2013.m3u8
+#EXTINF:-1,Curta HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1871.m3u8
+#EXTINF:-1,Curta SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1872.m3u8
+#EXTINF:-1,Curta SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2204.m3u8
+#EXTINF:-1,Curta! FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25459.m3u8
+#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1642.m3u8
+#EXTINF:-1,DAZN 2 - Copa Libertadores HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1641.m3u8
+#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1640.m3u8
+#EXTINF:-1,Denis - O Pimentinha [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2091.m3u8
+#EXTINF:-1,Digimon [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2090.m3u8
+#EXTINF:-1,Discovery Channel 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28670.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1950.m3u8
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25362.m3u8
+#EXTINF:-1,Discovery Channel FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29475.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1869.m3u8
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2390.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1870.m3u8
+#EXTINF:-1,Discovery Channel SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2203.m3u8
+#EXTINF:-1,Discovery Civilization FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2012.m3u8
+#EXTINF:-1,Discovery Civilization FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25397.m3u8
+#EXTINF:-1,Discovery Civilization FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29474.m3u8
+#EXTINF:-1,Discovery Civilization HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1867.m3u8
+#EXTINF:-1,Discovery Civilization HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2389.m3u8
+#EXTINF:-1,Discovery Civilization SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1868.m3u8
+#EXTINF:-1,Discovery Civilization SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2117.m3u8
+#EXTINF:-1,Discovery H&H FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2011.m3u8
+#EXTINF:-1,Discovery H&H FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25396.m3u8
+#EXTINF:-1,Discovery H&H FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29419.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1865.m3u8
+#EXTINF:-1,Discovery H&H HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2388.m3u8
+#EXTINF:-1,Discovery H&H SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1866.m3u8
+#EXTINF:-1,Discovery H&H SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2106.m3u8
+#EXTINF:-1,Discovery Kids FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2010.m3u8
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25395.m3u8
+#EXTINF:-1,Discovery Kids FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29473.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1863.m3u8
+#EXTINF:-1,Discovery Kids HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2387.m3u8
+#EXTINF:-1,Discovery Kids SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1864.m3u8
+#EXTINF:-1,Discovery Kids SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2202.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2009.m3u8
+#EXTINF:-1,Discovery Science FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25394.m3u8
+#EXTINF:-1,Discovery Science FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29472.m3u8
+#EXTINF:-1,Discovery Science HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1861.m3u8
+#EXTINF:-1,Discovery Science HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2386.m3u8
+#EXTINF:-1,Discovery Science SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1862.m3u8
+#EXTINF:-1,Discovery Science SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2123.m3u8
+#EXTINF:-1,Discovery Theater FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2008.m3u8
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25393.m3u8
+#EXTINF:-1,Discovery Theater FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29471.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1859.m3u8
+#EXTINF:-1,Discovery Theater HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2385.m3u8
+#EXTINF:-1,Discovery Theater SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1860.m3u8
+#EXTINF:-1,Discovery Theater SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2124.m3u8
+#EXTINF:-1,Discovery Turbo FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2007.m3u8
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25392.m3u8
+#EXTINF:-1,Discovery Turbo FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29401.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1857.m3u8
+#EXTINF:-1,Discovery Turbo HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2384.m3u8
+#EXTINF:-1,Discovery Turbo SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1858.m3u8
+#EXTINF:-1,Discovery Turbo SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2201.m3u8
+#EXTINF:-1,Discovery World FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2006.m3u8
+#EXTINF:-1,Discovery World FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25391.m3u8
+#EXTINF:-1,Discovery World FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29400.m3u8
+#EXTINF:-1,Discovery World HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1855.m3u8
+#EXTINF:-1,Discovery World HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2383.m3u8
+#EXTINF:-1,Discovery World SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1856.m3u8
+#EXTINF:-1,Discovery World SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2122.m3u8
+#EXTINF:-1,Disney Channel FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1949.m3u8
+#EXTINF:-1,Disney Channel FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25390.m3u8
+#EXTINF:-1,Disney Channel FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29418.m3u8
+#EXTINF:-1,Disney Channel HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1853.m3u8
+#EXTINF:-1,Disney Channel HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2382.m3u8
+#EXTINF:-1,Disney Channel SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1854.m3u8
+#EXTINF:-1,Disney Channel SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2200.m3u8
+#EXTINF:-1,Disney Jr FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1955.m3u8
+#EXTINF:-1,Disney Jr FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25389.m3u8
+#EXTINF:-1,Disney Jr FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29417.m3u8
+#EXTINF:-1,Disney Jr HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1678.m3u8
+#EXTINF:-1,Disney Jr HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2381.m3u8
+#EXTINF:-1,Disney Jr SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1852.m3u8
+#EXTINF:-1,Disney Jr SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2199.m3u8
+#EXTINF:-1,Disney XD FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25361.m3u8
+#EXTINF:-1,Disney XD SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1851.m3u8
+#EXTINF:-1,Disney XD SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2198.m3u8
+#EXTINF:-1,Doha [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2428.m3u8
+#EXTINF:-1,Dois Homens e Meio [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2089.m3u8
+#EXTINF:-1,Doug [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2049.m3u8
+#EXTINF:-1,Dragon Ball Super [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2056.m3u8
+#EXTINF:-1,Dragon Ball Z [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2088.m3u8
+#EXTINF:-1,Dubai [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2423.m3u8
+#EXTINF:-1,Dublin [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2421.m3u8
 #EXTINF:-1,E! FHD
-http://clienteworld.com:8080/Lucas1/123456/28229
-#EXTINF:-1,ESPN
-http://clienteworld.com:8080/Lucas1/123456/8119
-#EXTINF:-1,ESPN FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28171
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2005.m3u8
+#EXTINF:-1,E! FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25388.m3u8
+#EXTINF:-1,E! FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29416.m3u8
+#EXTINF:-1,E! HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1849.m3u8
+#EXTINF:-1,E! HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2380.m3u8
+#EXTINF:-1,E! SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1850.m3u8
+#EXTINF:-1,E! SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2197.m3u8
+#EXTINF:-1,Ei Plus HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1645.m3u8
+#EXTINF:-1,Ei Plus SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1644.m3u8
 #EXTINF:-1,ESPN 2 FHD
-http://clienteworld.com:8080/Lucas1/123456/28228
-#EXTINF:-1,ESPN BRASIL
-http://clienteworld.com:8080/Lucas1/123456/8117
-#EXTINF:-1,ESPN BRASIL HD
-http://clienteworld.com:8080/Lucas1/123456/8243
-#EXTINF:-1,ESPN BRASIL HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13067
-#EXTINF:-1,ESPN BRASIL FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28172
-#EXTINF:-1,ESPN BRASIL FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/13066
-#EXTINF:-1,ESPN EXTRA
-http://clienteworld.com:8080/Lucas1/123456/8116
-#EXTINF:-1,ESPN+ HD
-http://clienteworld.com:8080/Lucas1/123456/8118
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2004.m3u8
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25458.m3u8
+#EXTINF:-1,ESPN 2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29394.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1846.m3u8
+#EXTINF:-1,ESPN 2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2379.m3u8
+#EXTINF:-1,ESPN 2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1847.m3u8
+#EXTINF:-1,ESPN 2 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2196.m3u8
+#EXTINF:-1,ESPN 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28861.m3u8
+#EXTINF:-1,ESPN Brasil FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1948.m3u8
+#EXTINF:-1,ESPN Brasil FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25387.m3u8
+#EXTINF:-1,ESPN Brasil FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29396.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1844.m3u8
+#EXTINF:-1,ESPN Brasil HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2378.m3u8
+#EXTINF:-1,ESPN Brasil SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1845.m3u8
+#EXTINF:-1,ESPN Brasil SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2195.m3u8
 #EXTINF:-1,ESPN Extra FHD
-http://clienteworld.com:8080/Lucas1/123456/28227
-#EXTINF:-1,FISH TV
-http://clienteworld.com:8080/Lucas1/123456/8108
-#EXTINF:-1,FISH TV Â²
-http://clienteworld.com:8080/Lucas1/123456/51975
-#EXTINF:-1,FOOD NETWORK
-http://clienteworld.com:8080/Lucas1/123456/8106
-#EXTINF:-1,FOOD NETWORK HD
-http://clienteworld.com:8080/Lucas1/123456/8218
-#EXTINF:-1,FOOD NETWORK FHD
-http://clienteworld.com:8080/Lucas1/123456/28225
-#EXTINF:-1,FOOD NETWORK FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/13060
-#EXTINF:-1,FOX
-http://clienteworld.com:8080/Lucas1/123456/8105
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2003.m3u8
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25457.m3u8
+#EXTINF:-1,ESPN Extra FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29393.m3u8
+#EXTINF:-1,ESPN Extra HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1842.m3u8
+#EXTINF:-1,ESPN Extra HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2377.m3u8
+#EXTINF:-1,ESPN Extra SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1843.m3u8
+#EXTINF:-1,ESPN FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1947.m3u8
+#EXTINF:-1,ESPN FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25386.m3u8
+#EXTINF:-1,ESPN FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29395.m3u8
+#EXTINF:-1,ESPN HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1841.m3u8
+#EXTINF:-1,ESPN HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2376.m3u8
+#EXTINF:-1,ESPN SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1848.m3u8
+#EXTINF:-1,ESPN SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2194.m3u8
+#EXTINF:-1,Eu a Patroa e as Criancas [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2054.m3u8
+#EXTINF:-1,FashionTV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25385.m3u8
+#EXTINF:-1,Film & Arts SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1666.m3u8
+#EXTINF:-1,Fish TV FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2002.m3u8
+#EXTINF:-1,Fish TV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25384.m3u8
+#EXTINF:-1,Fish TV FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29470.m3u8
+#EXTINF:-1,Fish TV HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1839.m3u8
+#EXTINF:-1,Fish TV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1840.m3u8
+#EXTINF:-1,Fish TV SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2109.m3u8
+#EXTINF:-1,Food Network FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2001.m3u8
+#EXTINF:-1,Food Network FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25456.m3u8
+#EXTINF:-1,Food Network FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29469.m3u8
+#EXTINF:-1,Food Network HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1837.m3u8
+#EXTINF:-1,Food Network HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2375.m3u8
+#EXTINF:-1,Food Network SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1838.m3u8
+#EXTINF:-1,Food Network SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2125.m3u8
+#EXTINF:-1,Formiga Atomica [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2039.m3u8
+#EXTINF:-1,FOX FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1946.m3u8
+#EXTINF:-1,FOX FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25455.m3u8
+#EXTINF:-1,FOX FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29468.m3u8
 #EXTINF:-1,FOX HD
-http://clienteworld.com:8080/Lucas1/123456/8217
-#EXTINF:-1,FOX FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28170
-#EXTINF:-1,FOX FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/13059
-#EXTINF:-1,FOX LIFE
-http://clienteworld.com:8080/Lucas1/123456/8104
-#EXTINF:-1,FOX LIFE Â²
-http://clienteworld.com:8080/Lucas1/123456/51974
-#EXTINF:-1,FOX LIFE HD
-http://clienteworld.com:8080/Lucas1/123456/8216
-#EXTINF:-1,FOX LIFE HD H.265 Â²
-http://clienteworld.com:8080/Lucas1/123456/13057
-#EXTINF:-1,FOX PREMIUM 1
-http://clienteworld.com:8080/Lucas1/123456/8103
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://clienteworld.com:8080/Lucas1/123456/8215
-#EXTINF:-1,FOX PREMIUM 2
-http://clienteworld.com:8080/Lucas1/123456/15076
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://clienteworld.com:8080/Lucas1/123456/15075
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://clienteworld.com:8080/Lucas1/123456/28222
-#EXTINF:-1,FOX SPORTS
-http://clienteworld.com:8080/Lucas1/123456/8101
-#EXTINF:-1,FOX SPORTS HD
-http://clienteworld.com:8080/Lucas1/123456/8213
-#EXTINF:-1,FOX SPORTS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13053
-#EXTINF:-1,FOX SPORTS 2
-http://clienteworld.com:8080/Lucas1/123456/8100
-#EXTINF:-1,FOX SPORTS 2 HD
-http://clienteworld.com:8080/Lucas1/123456/8099
-#EXTINF:-1,FOX SPORTS 2 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13051
-#EXTINF:-1,FOX SPORTS 2 FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28169
-#EXTINF:-1,FUTURA
-http://clienteworld.com:8080/Lucas1/123456/8212
-#EXTINF:-1,FUTURA HD
-http://clienteworld.com:8080/Lucas1/123456/8098
-#EXTINF:-1,FUTURA FHD
-http://clienteworld.com:8080/Lucas1/123456/28221
-#EXTINF:-1,FX
-http://clienteworld.com:8080/Lucas1/123456/8097
-#EXTINF:-1,FX Â²
-http://clienteworld.com:8080/Lucas1/123456/51973
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1835.m3u8
+#EXTINF:-1,FOX HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2374.m3u8
+#EXTINF:-1,FOX HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1527.m3u8
+#EXTINF:-1,FOX Life FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2000.m3u8
+#EXTINF:-1,FOX Life FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25454.m3u8
+#EXTINF:-1,FOX Life HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1833.m3u8
+#EXTINF:-1,FOX Life HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2373.m3u8
+#EXTINF:-1,FOX Life SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1834.m3u8
+#EXTINF:-1,FOX Life SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2193.m3u8
+#EXTINF:-1,FOX Premium 1 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1999.m3u8
+#EXTINF:-1,FOX Premium 1 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25453.m3u8
+#EXTINF:-1,FOX Premium 1 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29415.m3u8
+#EXTINF:-1,FOX Premium 1 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1831.m3u8
+#EXTINF:-1,FOX Premium 1 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2372.m3u8
+#EXTINF:-1,FOX Premium 1 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1832.m3u8
+#EXTINF:-1,FOX Premium 2 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1998.m3u8
+#EXTINF:-1,FOX Premium 2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25452.m3u8
+#EXTINF:-1,FOX Premium 2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29414.m3u8
+#EXTINF:-1,FOX Premium 2 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1829.m3u8
+#EXTINF:-1,FOX Premium 2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2371.m3u8
+#EXTINF:-1,FOX Premium 2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1830.m3u8
+#EXTINF:-1,FOX SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1836.m3u8
+#EXTINF:-1,FOX SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2192.m3u8
+#EXTINF:-1,FOX SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1526.m3u8
+#EXTINF:-1,FOX Sports 2 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28661.m3u8
+#EXTINF:-1,FOX Sports 2 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1945.m3u8
+#EXTINF:-1,FOX Sports 2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25383.m3u8
+#EXTINF:-1,FOX Sports 2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29467.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1825.m3u8
+#EXTINF:-1,FOX Sports 2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2370.m3u8
+#EXTINF:-1,FOX Sports 2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1826.m3u8
+#EXTINF:-1,FOX Sports 2 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2191.m3u8
+#EXTINF:-1,FOX Sports 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28669.m3u8
+#EXTINF:-1,FOX Sports FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1944.m3u8
+#EXTINF:-1,FOX Sports FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25382.m3u8
+#EXTINF:-1,FOX Sports FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29466.m3u8
+#EXTINF:-1,FOX Sports HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1827.m3u8
+#EXTINF:-1,FOX Sports HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2369.m3u8
+#EXTINF:-1,FOX Sports SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1828.m3u8
+#EXTINF:-1,FOX Sports SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2190.m3u8
+#EXTINF:-1,Futura FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1997.m3u8
+#EXTINF:-1,Futura FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25451.m3u8
+#EXTINF:-1,Futura HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1823.m3u8
+#EXTINF:-1,Futura SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1824.m3u8
+#EXTINF:-1,Futura SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2189.m3u8
+#EXTINF:-1,FX FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1996.m3u8
+#EXTINF:-1,FX FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25450.m3u8
+#EXTINF:-1,FX FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29465.m3u8
 #EXTINF:-1,FX HD
-http://clienteworld.com:8080/Lucas1/123456/8211
-#EXTINF:-1,TV GAZETA HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13047
-#EXTINF:-1,GLOBO BRASILIA
-http://clienteworld.com:8080/Lucas1/123456/8096
-#EXTINF:-1,GLOBO BRASILIA HD Â²
-http://clienteworld.com:8080/Lucas1/123456/53025
-#EXTINF:-1,GLOBO BRASILIA SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53041
-#EXTINF:-1,GLOBO BRASILIA FHD
-http://clienteworld.com:8080/Lucas1/123456/28255
-#EXTINF:-1,GLOBO EPTV RIBEIRÃƒO PRETO FHD
-http://clienteworld.com:8080/Lucas1/123456/28267
-#EXTINF:-1,GLOBO EPTV CAMPINAS
-http://clienteworld.com:8080/Lucas1/123456/8095
-#EXTINF:-1,GLOBO EPTV HD CAMPINAS
-http://clienteworld.com:8080/Lucas1/123456/8094
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53040
-#EXTINF:-1,GLOBO EPTV RIBEIRÃƒO PRETO
-http://clienteworld.com:8080/Lucas1/123456/8092
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53039
-#EXTINF:-1,GLOBO EPTV HD RIBEIRÃƒO PRETO
-http://clienteworld.com:8080/Lucas1/123456/8093
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53038
-#EXTINF:-1,GLOBO ES HD FÂ²
-http://clienteworld.com:8080/Lucas1/123456/53046
-#EXTINF:-1,GLOBO INTER TV CABUGI SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53037
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
-http://clienteworld.com:8080/Lucas1/123456/45050
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-http://clienteworld.com:8080/Lucas1/123456/45049
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD
-http://clienteworld.com:8080/Lucas1/123456/45048
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
-http://clienteworld.com:8080/Lucas1/123456/45047
-#EXTINF:-1,GLOBO INTER TV DOS VALES HD
-http://clienteworld.com:8080/Lucas1/123456/45046
-#EXTINF:-1,GLOBO INTER TV DOS VALES SD
-http://clienteworld.com:8080/Lucas1/123456/45045
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
-http://clienteworld.com:8080/Lucas1/123456/45044
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-http://clienteworld.com:8080/Lucas1/123456/45043
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD
-http://clienteworld.com:8080/Lucas1/123456/45042
-#EXTINF:-1,GLOBO INTER TV NATAL
-http://clienteworld.com:8080/Lucas1/123456/28275
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-http://clienteworld.com:8080/Lucas1/123456/45040
-#EXTINF:-1,GLOBO INTER TV SERRA MAR SD
-http://clienteworld.com:8080/Lucas1/123456/45039
-#EXTINF:-1,GLOBO MINAS
-http://clienteworld.com:8080/Lucas1/123456/8091
-#EXTINF:-1,GLOBO MINAS SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53043
-#EXTINF:-1,GLOBO MINAS HD
-http://clienteworld.com:8080/Lucas1/123456/8210
-#EXTINF:-1,GLOBO MINAS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/53044
-#EXTINF:-1,Globo MG Â²
-http://clienteworld.com:8080/Lucas1/123456/19034
-#EXTINF:-1,GLOBO NEWS
-http://clienteworld.com:8080/Lucas1/123456/8090
-#EXTINF:-1,GLOBO NEWS HD
-http://clienteworld.com:8080/Lucas1/123456/8209
-#EXTINF:-1,GLOBO NEWS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13046
-#EXTINF:-1,GLOBO NEWS HDÂ²
-http://clienteworld.com:8080/Lucas1/123456/13045
-#EXTINF:-1,GLOBO NORDESTE
-http://clienteworld.com:8080/Lucas1/123456/8208
-#EXTINF:-1,GLOBO NORDESTE SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53036
-#EXTINF:-1,GLOBO NORDESTE HD
-http://clienteworld.com:8080/Lucas1/123456/8207
-#EXTINF:-1,GLOBO NORDESTE FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/19277
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS
-http://clienteworld.com:8080/Lucas1/123456/8089
-#EXTINF:-1,GLOBO NSC TV HD FLORIANOPOLIS
-http://clienteworld.com:8080/Lucas1/123456/8088
-#EXTINF:-1,GLOBO NSC TV CHAPECO SD
-http://clienteworld.com:8080/Lucas1/123456/28281
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-http://clienteworld.com:8080/Lucas1/123456/28280
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-http://clienteworld.com:8080/Lucas1/123456/45036
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-http://clienteworld.com:8080/Lucas1/123456/45037
-#EXTINF:-1,GLOBO NSC TV JOINVILLE SD
-http://clienteworld.com:8080/Lucas1/123456/45030
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-http://clienteworld.com:8080/Lucas1/123456/45031
-#EXTINF:-1,GLOBO RJ
-http://clienteworld.com:8080/Lucas1/123456/8085
-#EXTINF:-1,GLOBO RJ HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13033
-#EXTINF:-1,GLOBO FHD RJ Â²
-http://clienteworld.com:8080/Lucas1/123456/53049
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU
-http://clienteworld.com:8080/Lucas1/123456/28282
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-http://clienteworld.com:8080/Lucas1/123456/28283
-#EXTINF:-1,GLOBO RPC CURITIBA
-http://clienteworld.com:8080/Lucas1/123456/8084
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53034
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://clienteworld.com:8080/Lucas1/123456/8083
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
-http://clienteworld.com:8080/Lucas1/123456/8087
-#EXTINF:-1,GLOBO RBS HD TV PORTO ALEGRE
-http://clienteworld.com:8080/Lucas1/123456/8086
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL SD
-http://clienteworld.com:8080/Lucas1/123456/45033
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-http://clienteworld.com:8080/Lucas1/123456/45034
-#EXTINF:-1,GLOBO RBS TV PELOTAS SD
-http://clienteworld.com:8080/Lucas1/123456/45027
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-http://clienteworld.com:8080/Lucas1/123456/45028
-#EXTINF:-1,GLOBO SP
-http://clienteworld.com:8080/Lucas1/123456/8082
-#EXTINF:-1,GLOBO SP HD
-http://clienteworld.com:8080/Lucas1/123456/8205
-#EXTINF:-1,GLOBO HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13030
-#EXTINF:-1,GLOBO 4K H265 Â²
-http://clienteworld.com:8080/Lucas1/123456/53599
-#EXTINF:-1,GLOBO TV ANHANGUERA
-http://clienteworld.com:8080/Lucas1/123456/8081
-#EXTINF:-1,GLOBO TV ANHANGUERA HD
-http://clienteworld.com:8080/Lucas1/123456/8080
-#EXTINF:-1,GLOBO TV BAHIA
-http://clienteworld.com:8080/Lucas1/123456/8079
-#EXTINF:-1,GLOBO TV BAHIA SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53032
-#EXTINF:-1,GLOBO TV BAHIA HD
-http://clienteworld.com:8080/Lucas1/123456/8078
-#EXTINF:-1,GLOBO TV CLUBE TERESINA
-http://clienteworld.com:8080/Lucas1/123456/28284
-#EXTINF:-1,GLOBO TV CLUBE TERESINA HD
-http://clienteworld.com:8080/Lucas1/123456/28285
-#EXTINF:-1,GLOBO TV CABO BRANCO SD
-http://clienteworld.com:8080/Lucas1/123456/45024
-#EXTINF:-1,GLOBO TV CABO BRANCO FHD
-http://clienteworld.com:8080/Lucas1/123456/45026
-#EXTINF:-1,GLOBO TV CABO BRANCO HD
-http://clienteworld.com:8080/Lucas1/123456/45025
-#EXTINF:-1,GLOBO TV TEM BAURU
-http://clienteworld.com:8080/Lucas1/123456/8077
-#EXTINF:-1,GLOBO TV TEM BAURU SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53029
-#EXTINF:-1,GLOBO TV TEM SOROCABA
-http://clienteworld.com:8080/Lucas1/123456/8074
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53028
-#EXTINF:-1,GLOBO TV TEM S. J. DO RIO PRETO
-http://clienteworld.com:8080/Lucas1/123456/8075
-#EXTINF:-1,GLOBO TV TEM HD S. J. DO RIO PRETO
-http://clienteworld.com:8080/Lucas1/123456/8076
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS
-http://clienteworld.com:8080/Lucas1/123456/28294
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
-http://clienteworld.com:8080/Lucas1/123456/28295
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-http://clienteworld.com:8080/Lucas1/123456/28258
-#EXTINF:-1,GLOBO TV GAZETA VITÃ“RIA
-http://clienteworld.com:8080/Lucas1/123456/28286
-#EXTINF:-1,GLOBO TV GAZETA VITÃ“RIA HD
-http://clienteworld.com:8080/Lucas1/123456/28287
-#EXTINF:-1,GLOBO TV GAZETA VITÃ“RIA FHD
-http://clienteworld.com:8080/Lucas1/123456/28253
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
-http://clienteworld.com:8080/Lucas1/123456/28290
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
-http://clienteworld.com:8080/Lucas1/123456/28291
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
-http://clienteworld.com:8080/Lucas1/123456/28259
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE SD
-http://clienteworld.com:8080/Lucas1/123456/28292
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
-http://clienteworld.com:8080/Lucas1/123456/28293
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
-http://clienteworld.com:8080/Lucas1/123456/28256
-#EXTINF:-1,GLOBO TV SERGIPE
-http://clienteworld.com:8080/Lucas1/123456/28288
-#EXTINF:-1,GLOBO TV SERGIPE HD
-http://clienteworld.com:8080/Lucas1/123456/28289
-#EXTINF:-1,GLOBO TV SERGIPE FHD
-http://clienteworld.com:8080/Lucas1/123456/28254
-#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS
-http://clienteworld.com:8080/Lucas1/123456/28278
-#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53026
-#EXTINF:-1,GLOBO TV C. AMÃ‰RICA CUIABA
-http://clienteworld.com:8080/Lucas1/123456/28277
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-http://clienteworld.com:8080/Lucas1/123456/28279
-#EXTINF:-1,GLOBO TV RIO SUL SD
-http://clienteworld.com:8080/Lucas1/123456/45021
-#EXTINF:-1,GLOBO TV RIO SUL HD
-http://clienteworld.com:8080/Lucas1/123456/45022
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-http://clienteworld.com:8080/Lucas1/123456/45023
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD
-http://clienteworld.com:8080/Lucas1/123456/45018
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD
-http://clienteworld.com:8080/Lucas1/123456/45019
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
-http://clienteworld.com:8080/Lucas1/123456/45020
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
-http://clienteworld.com:8080/Lucas1/123456/18985
-#EXTINF:-1,GLOBO TV VERDES MARES SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53024
-#EXTINF:-1,GLOBO VERDES MARES FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/53045
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53031
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53030
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53027
-#EXTINF:-1,GLOBO REDE AMAZONICA
-http://clienteworld.com:8080/Lucas1/123456/28276
-#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD Â²
-http://clienteworld.com:8080/Lucas1/123456/53035
-#EXTINF:-1,GLOBO FHD GOIAS Â²
-http://clienteworld.com:8080/Lucas1/123456/53023
-#EXTINF:-1,GLOBOSAT
-http://clienteworld.com:8080/Lucas1/123456/8057
-#EXTINF:-1,GLOBOSAT HD
-http://clienteworld.com:8080/Lucas1/123456/8056
-#EXTINF:-1,GLOBOSAT HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13018
-#EXTINF:-1,GLOOB
-http://clienteworld.com:8080/Lucas1/123456/8073
-#EXTINF:-1,GLOOB Â²
-http://clienteworld.com:8080/Lucas1/123456/51944
-#EXTINF:-1,GLOOB HD
-http://clienteworld.com:8080/Lucas1/123456/8072
-#EXTINF:-1,GLOOB HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13016
-#EXTINF:-1,GLOOB FULLHD
-http://clienteworld.com:8080/Lucas1/123456/28166
-#EXTINF:-1,GLOOBINHO
-http://clienteworld.com:8080/Lucas1/123456/8070
-#EXTINF:-1,GLOOBINHO HD
-http://clienteworld.com:8080/Lucas1/123456/8071
-#EXTINF:-1,GLOOBINHO FHD
-http://clienteworld.com:8080/Lucas1/123456/28219
-#EXTINF:-1,GNT
-http://clienteworld.com:8080/Lucas1/123456/8069
-#EXTINF:-1,GNT Â²
-http://clienteworld.com:8080/Lucas1/123456/51952
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1821.m3u8
+#EXTINF:-1,FX HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2368.m3u8
+#EXTINF:-1,FX HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1507.m3u8
+#EXTINF:-1,FX SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1822.m3u8
+#EXTINF:-1,FX SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2118.m3u8
+#EXTINF:-1,FX SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1506.m3u8
+#EXTINF:-1,Galinha Pintadinha [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2087.m3u8
+#EXTINF:-1,Globo Brasilia FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1583.m3u8
+#EXTINF:-1,Globo Brasilia HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1638.m3u8
+#EXTINF:-1,Globo Brasilia SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1639.m3u8
+#EXTINF:-1,Globo Brasilia SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2410.m3u8
+#EXTINF:-1,Globo Campinas FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25360.m3u8
+#EXTINF:-1,Globo EPTV Araraquara SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1637.m3u8
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1582.m3u8
+#EXTINF:-1,Globo EPTV Campinas HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1635.m3u8
+#EXTINF:-1,Globo EPTV Campinas SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1636.m3u8
+#EXTINF:-1,Globo EPTV Campinas SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2409.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1563.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1634.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1633.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2408.m3u8
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1632.m3u8
+#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2407.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1562.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1561.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1560.m3u8
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1559.m3u8
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1558.m3u8
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1557.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1556.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1555.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1554.m3u8
+#EXTINF:-1,Globo Inter TV Natal SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1631.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1553.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1552.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1551.m3u8
+#EXTINF:-1,Globo Internacional FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29403.m3u8
+#EXTINF:-1,Globo Internacional HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1599.m3u8
+#EXTINF:-1,Globo Minas FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1581.m3u8
+#EXTINF:-1,Globo Minas FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25359.m3u8
+#EXTINF:-1,Globo Minas HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1629.m3u8
+#EXTINF:-1,Globo Minas HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2414.m3u8
+#EXTINF:-1,Globo Minas SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1630.m3u8
+#EXTINF:-1,Globo Minas SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2406.m3u8
+#EXTINF:-1,Globo News FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1943.m3u8
+#EXTINF:-1,Globo News FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25449.m3u8
+#EXTINF:-1,Globo News FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29464.m3u8
+#EXTINF:-1,Globo News HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1819.m3u8
+#EXTINF:-1,Globo News HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2367.m3u8
+#EXTINF:-1,Globo News SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1820.m3u8
+#EXTINF:-1,Globo News SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2132.m3u8
+#EXTINF:-1,Globo Nordeste FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1580.m3u8
+#EXTINF:-1,Globo Nordeste FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25358.m3u8
+#EXTINF:-1,Globo Nordeste HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1627.m3u8
+#EXTINF:-1,Globo Nordeste SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1628.m3u8
+#EXTINF:-1,Globo Nordeste SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2405.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1550.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1549.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1548.m3u8
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1598.m3u8
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1597.m3u8
+#EXTINF:-1,Globo NSC TV Chapeco SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1596.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1579.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1625.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1626.m3u8
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1544.m3u8
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1543.m3u8
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1542.m3u8
+#EXTINF:-1,Globo Porto Alegre FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25357.m3u8
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1547.m3u8
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1546.m3u8
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1545.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1541.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1540.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1539.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1578.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1623.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1624.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2404.m3u8
+#EXTINF:-1,Globo Rede AM. Manaus SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1622.m3u8
+#EXTINF:-1,Globo Ribeirao Preto FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25356.m3u8
+#EXTINF:-1,Globo RJ FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1619.m3u8
+#EXTINF:-1,Globo RJ FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25381.m3u8
+#EXTINF:-1,Globo RJ HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1620.m3u8
+#EXTINF:-1,Globo RJ HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2413.m3u8
+#EXTINF:-1,Globo RJ SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1621.m3u8
+#EXTINF:-1,Globo RJ SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2403.m3u8
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1616.m3u8
+#EXTINF:-1,Globo RPC Curitiba HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1617.m3u8
+#EXTINF:-1,Globo RPC Curitiba SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1618.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguacu FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1594.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1593.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguacu SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1595.m3u8
+#EXTINF:-1,Globo SP 4K
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1490.m3u8
+#EXTINF:-1,Globo SP 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28668.m3u8
+#EXTINF:-1,Globo SP FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1613.m3u8
+#EXTINF:-1,Globo SP FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25380.m3u8
+#EXTINF:-1,Globo SP HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1614.m3u8
+#EXTINF:-1,Globo SP HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2311.m3u8
+#EXTINF:-1,Globo SP SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1615.m3u8
+#EXTINF:-1,Globo SP SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2127.m3u8
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1577.m3u8
+#EXTINF:-1,Globo TV Anhanguera FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29488.m3u8
+#EXTINF:-1,Globo TV Anhanguera HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1611.m3u8
+#EXTINF:-1,Globo TV Anhanguera SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1612.m3u8
+#EXTINF:-1,Globo TV Bahia FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1576.m3u8
+#EXTINF:-1,Globo TV Bahia HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1609.m3u8
+#EXTINF:-1,Globo TV Bahia SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1610.m3u8
+#EXTINF:-1,Globo TV C. America Cuiaba SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1608.m3u8
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1538.m3u8
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1537.m3u8
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1536.m3u8
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1591.m3u8
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1590.m3u8
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1592.m3u8
+#EXTINF:-1,Globo TV Diario Fortaleza FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1910.m3u8
+#EXTINF:-1,Globo TV Diario Fortaleza HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1659.m3u8
+#EXTINF:-1,Globo TV Diario Fortaleza SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1658.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1567.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1566.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1568.m3u8
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1565.m3u8
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1564.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1588.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1587.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1589.m3u8
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1607.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1575.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1574.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1573.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1572.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1571.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1570.m3u8
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1535.m3u8
+#EXTINF:-1,Globo TV Rio Sul HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1534.m3u8
+#EXTINF:-1,Globo TV Rio Sul SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1533.m3u8
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1532.m3u8
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1531.m3u8
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1530.m3u8
+#EXTINF:-1,Globo TV Sergipe FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1585.m3u8
+#EXTINF:-1,Globo TV Sergipe HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1584.m3u8
+#EXTINF:-1,Globo TV Sergipe SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1586.m3u8
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1606.m3u8
+#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1604.m3u8
+#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1603.m3u8
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1569.m3u8
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1605.m3u8
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1602.m3u8
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1601.m3u8
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1600.m3u8
+#EXTINF:-1,HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28653.m3u8
+#EXTINF:-1,Gloob FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1942.m3u8
+#EXTINF:-1,Gloob FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25448.m3u8
+#EXTINF:-1,Gloob FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29413.m3u8
+#EXTINF:-1,Gloob HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1817.m3u8
+#EXTINF:-1,Gloob HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2365.m3u8
+#EXTINF:-1,Gloob SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1818.m3u8
+#EXTINF:-1,Gloob SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2187.m3u8
+#EXTINF:-1,Gloobinho FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1995.m3u8
+#EXTINF:-1,Gloobinho FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25355.m3u8
+#EXTINF:-1,Gloobinho HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1816.m3u8
+#EXTINF:-1,Gloobinho SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1815.m3u8
+#EXTINF:-1,GNT FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1994.m3u8
+#EXTINF:-1,GNT FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25379.m3u8
+#EXTINF:-1,GNT FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29412.m3u8
 #EXTINF:-1,GNT HD
-http://clienteworld.com:8080/Lucas1/123456/8204
-#EXTINF:-1,H2
-http://clienteworld.com:8080/Lucas1/123456/8068
-#EXTINF:-1,H2 Â²
-http://clienteworld.com:8080/Lucas1/123456/13010
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1813.m3u8
+#EXTINF:-1,GNT HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2364.m3u8
+#EXTINF:-1,GNT SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1814.m3u8
+#EXTINF:-1,GNT SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2120.m3u8
+#EXTINF:-1,Gospel Cartoon [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2086.m3u8
+#EXTINF:-1,Guardioes da Galaxia [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2040.m3u8
+#EXTINF:-1,H2 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1993.m3u8
+#EXTINF:-1,H2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25378.m3u8
+#EXTINF:-1,H2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29463.m3u8
 #EXTINF:-1,H2 HD
-http://clienteworld.com:8080/Lucas1/123456/8203
-#EXTINF:-1,HBO
-http://clienteworld.com:8080/Lucas1/123456/8067
-#EXTINF:-1,HBO HD
-http://clienteworld.com:8080/Lucas1/123456/8200
-#EXTINF:-1,HBO HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12794
-#EXTINF:-1,HBO 2
-http://clienteworld.com:8080/Lucas1/123456/8066
-#EXTINF:-1,HBO 2 Â²
-http://clienteworld.com:8080/Lucas1/123456/51951
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1811.m3u8
+#EXTINF:-1,H2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2363.m3u8
+#EXTINF:-1,H2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1812.m3u8
+#EXTINF:-1,H2 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2186.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1941.m3u8
+#EXTINF:-1,HBO 2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25447.m3u8
+#EXTINF:-1,HBO 2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29460.m3u8
 #EXTINF:-1,HBO 2 HD
-http://clienteworld.com:8080/Lucas1/123456/8202
-#EXTINF:-1,HBO 2 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12798
-#EXTINF:-1,HBO 2 h265 Â²
-http://clienteworld.com:8080/Lucas1/123456/12874
-#EXTINF:-1,HBO FAMILY
-http://clienteworld.com:8080/Lucas1/123456/8065
-#EXTINF:-1,HBO FAMILY HD
-http://clienteworld.com:8080/Lucas1/123456/8201
-#EXTINF:-1,HBO PLUS
-http://clienteworld.com:8080/Lucas1/123456/8064
-#EXTINF:-1,HBO PLUS Â²
-http://clienteworld.com:8080/Lucas1/123456/51950
-#EXTINF:-1,HBO PLUS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12876
-#EXTINF:-1,HBO PLUS HD
-http://clienteworld.com:8080/Lucas1/123456/8199
-#EXTINF:-1,HBO SIGNATURE
-http://clienteworld.com:8080/Lucas1/123456/8062
-#EXTINF:-1,HBO SIGNATURE FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12875
-#EXTINF:-1,HBO SIGNATURE HD
-http://clienteworld.com:8080/Lucas1/123456/8198
-#EXTINF:-1,HISTORY
-http://clienteworld.com:8080/Lucas1/123456/8061
-#EXTINF:-1,HISTORY Â²
-http://clienteworld.com:8080/Lucas1/123456/51983
-#EXTINF:-1,HISTORY HD
-http://clienteworld.com:8080/Lucas1/123456/8060
-#EXTINF:-1,HISTORY HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13008
-#EXTINF:-1,IMPD TV
-http://clienteworld.com:8080/Lucas1/123456/4655
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://clienteworld.com:8080/Lucas1/123456/8059
-#EXTINF:-1,INVESTIGATION DISCOVERY HDÂ²
-http://clienteworld.com:8080/Lucas1/123456/13005
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://clienteworld.com:8080/Lucas1/123456/8197
-#EXTINF:-1,INVESTIGATION DISCOVERY HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13006
-#EXTINF:-1,IDEAL TV Â²
-http://clienteworld.com:8080/Lucas1/123456/4656
-#EXTINF:-1,LIFETIME
-http://clienteworld.com:8080/Lucas1/123456/8058
-#EXTINF:-1,LIFETIME FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/13003
-#EXTINF:-1,LIFETIME HD
-http://clienteworld.com:8080/Lucas1/123456/8196
-#EXTINF:-1,LIFETIME HD Â²
-http://clienteworld.com:8080/Lucas1/123456/13004
-#EXTINF:-1,MAX
-http://clienteworld.com:8080/Lucas1/123456/8055
-#EXTINF:-1,MAX Â²
-http://clienteworld.com:8080/Lucas1/123456/51976
-#EXTINF:-1,MAX HD  Â²
-http://clienteworld.com:8080/Lucas1/123456/13001
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1808.m3u8
+#EXTINF:-1,HBO 2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2362.m3u8
+#EXTINF:-1,HBO 2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1809.m3u8
+#EXTINF:-1,HBO 2 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2126.m3u8
+#EXTINF:-1,HBO Family FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1992.m3u8
+#EXTINF:-1,HBO Family FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25446.m3u8
+#EXTINF:-1,HBO Family FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29411.m3u8
+#EXTINF:-1,HBO Family HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1806.m3u8
+#EXTINF:-1,HBO Family HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2361.m3u8
+#EXTINF:-1,HBO Family SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1807.m3u8
+#EXTINF:-1,HBO Family SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2185.m3u8
+#EXTINF:-1,HBO FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1940.m3u8
+#EXTINF:-1,HBO FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25445.m3u8
+#EXTINF:-1,HBO FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29410.m3u8
+#EXTINF:-1,HBO HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1805.m3u8
+#EXTINF:-1,HBO HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2360.m3u8
+#EXTINF:-1,HBO HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1525.m3u8
+#EXTINF:-1,HBO Plus E SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2184.m3u8
+#EXTINF:-1,HBO Plus FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1991.m3u8
+#EXTINF:-1,HBO Plus FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25444.m3u8
+#EXTINF:-1,HBO Plus FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29462.m3u8
+#EXTINF:-1,HBO Plus HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1803.m3u8
+#EXTINF:-1,HBO Plus HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2359.m3u8
+#EXTINF:-1,HBO Plus HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1523.m3u8
+#EXTINF:-1,HBO Plus SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1804.m3u8
+#EXTINF:-1,HBO Plus SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2183.m3u8
+#EXTINF:-1,HBO Plus SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1522.m3u8
+#EXTINF:-1,HBO SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1810.m3u8
+#EXTINF:-1,HBO SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2182.m3u8
+#EXTINF:-1,HBO SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1524.m3u8
+#EXTINF:-1,HBO Signature FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1990.m3u8
+#EXTINF:-1,HBO Signature FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25443.m3u8
+#EXTINF:-1,HBO Signature FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29461.m3u8
+#EXTINF:-1,HBO Signature HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1801.m3u8
+#EXTINF:-1,HBO Signature HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2358.m3u8
+#EXTINF:-1,HBO Signature SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1802.m3u8
+#EXTINF:-1,HBO Signature SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2181.m3u8
+#EXTINF:-1,He-Man [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2085.m3u8
+#EXTINF:-1,Hércules [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2026.m3u8
+#EXTINF:-1,Historias da Disney [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2084.m3u8
+#EXTINF:-1,History Channel FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1989.m3u8
+#EXTINF:-1,History Channel FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25442.m3u8
+#EXTINF:-1,History Channel FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29459.m3u8
+#EXTINF:-1,History Channel HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1799.m3u8
+#EXTINF:-1,History Channel HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2320.m3u8
+#EXTINF:-1,History Channel SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1800.m3u8
+#EXTINF:-1,History Channel SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2143.m3u8
+#EXTINF:-1,Homem de Ferro [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2036.m3u8
+#EXTINF:-1,Homem-Aranha [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2083.m3u8
+#EXTINF:-1,Incrivel Hulk [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2038.m3u8
+#EXTINF:-1,Investigation Discovery FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1988.m3u8
+#EXTINF:-1,Investigation Discovery FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25377.m3u8
+#EXTINF:-1,Investigation Discovery FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29458.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1797.m3u8
+#EXTINF:-1,Investigation Discovery HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2357.m3u8
+#EXTINF:-1,Investigation Discovery SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1798.m3u8
+#EXTINF:-1,Investigation Discovery SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2119.m3u8
+#EXTINF:-1,Jack-Chan [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2052.m3u8
+#EXTINF:-1,Jaspion [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2082.m3u8
+#EXTINF:-1,Jerusalem [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2430.m3u8
+#EXTINF:-1,Jiraya [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2081.m3u8
+#EXTINF:-1,Kenan e Kel [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2044.m3u8
+#EXTINF:-1,Lifetime FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1987.m3u8
+#EXTINF:-1,Lifetime FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25441.m3u8
+#EXTINF:-1,Lifetime FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29457.m3u8
+#EXTINF:-1,Lifetime HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1795.m3u8
+#EXTINF:-1,Lifetime HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2356.m3u8
+#EXTINF:-1,Lifetime SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1796.m3u8
+#EXTINF:-1,Lifetime SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2180.m3u8
+#EXTINF:-1,Los Angeles [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2432.m3u8
+#EXTINF:-1,Mais GloboSat FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1921.m3u8
+#EXTINF:-1,Mais GloboSat FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25440.m3u8
+#EXTINF:-1,Mais GloboSat FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29399.m3u8
+#EXTINF:-1,Mais GloboSat HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1793.m3u8
+#EXTINF:-1,Mais GloboSat HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2366.m3u8
+#EXTINF:-1,Mais GloboSat SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1794.m3u8
+#EXTINF:-1,Mais GloboSat SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2188.m3u8
+#EXTINF:-1,Maldivas [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2422.m3u8
+#EXTINF:-1,MAX FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1986.m3u8
+#EXTINF:-1,MAX FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25439.m3u8
+#EXTINF:-1,MAX FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29456.m3u8
 #EXTINF:-1,MAX HD
-http://clienteworld.com:8080/Lucas1/123456/8195
-#EXTINF:-1,MAX PRIME
-http://clienteworld.com:8080/Lucas1/123456/8054
-#EXTINF:-1,MAX PRIME HD
-http://clienteworld.com:8080/Lucas1/123456/8194
-#EXTINF:-1,MAX PRIME HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12999
-#EXTINF:-1,MAX UP
-http://clienteworld.com:8080/Lucas1/123456/8052
-#EXTINF:-1,MAX UP  FULLHDÂ²
-http://clienteworld.com:8080/Lucas1/123456/12997
-#EXTINF:-1,MAX UP HD
-http://clienteworld.com:8080/Lucas1/123456/8193
-#EXTINF:-1,MAX UP HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12998
-#EXTINF:-1,MEGAPIX
-http://clienteworld.com:8080/Lucas1/123456/8051
-#EXTINF:-1,MEGAPIX HD
-http://clienteworld.com:8080/Lucas1/123456/8192
-#EXTINF:-1,MEGAPIX HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12996
-#EXTINF:-1,MEGAPIX FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12995
-#EXTINF:-1,MTV
-http://clienteworld.com:8080/Lucas1/123456/8050
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1791.m3u8
+#EXTINF:-1,MAX HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2355.m3u8
+#EXTINF:-1,MAX Prime FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1985.m3u8
+#EXTINF:-1,MAX Prime FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25438.m3u8
+#EXTINF:-1,MAX Prime FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29455.m3u8
+#EXTINF:-1,MAX Prime HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1789.m3u8
+#EXTINF:-1,MAX Prime HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2354.m3u8
+#EXTINF:-1,MAX Prime SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1790.m3u8
+#EXTINF:-1,MAX Prime SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2179.m3u8
+#EXTINF:-1,MAX Prime SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1521.m3u8
+#EXTINF:-1,MAX SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1792.m3u8
+#EXTINF:-1,MAX SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2178.m3u8
+#EXTINF:-1,MAX SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1520.m3u8
+#EXTINF:-1,MAX Up FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1984.m3u8
+#EXTINF:-1,MAX Up FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25437.m3u8
+#EXTINF:-1,MAX Up FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29409.m3u8
+#EXTINF:-1,MAX Up HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1787.m3u8
+#EXTINF:-1,MAX Up HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2353.m3u8
+#EXTINF:-1,MAX Up HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1505.m3u8
+#EXTINF:-1,MAX Up SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1788.m3u8
+#EXTINF:-1,MAX Up SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2177.m3u8
+#EXTINF:-1,MAX Up SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1504.m3u8
+#EXTINF:-1,Medabots [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2080.m3u8
+#EXTINF:-1,MegaMan [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2032.m3u8
+#EXTINF:-1,Megapix 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28656.m3u8
+#EXTINF:-1,Megapix FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1983.m3u8
+#EXTINF:-1,Megapix FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25436.m3u8
+#EXTINF:-1,Megapix FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29408.m3u8
+#EXTINF:-1,Megapix HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1785.m3u8
+#EXTINF:-1,Megapix HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2352.m3u8
+#EXTINF:-1,Megapix HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1503.m3u8
+#EXTINF:-1,Megapix SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1786.m3u8
+#EXTINF:-1,Megapix SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2176.m3u8
+#EXTINF:-1,Megapix SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1502.m3u8
+#EXTINF:-1,Miami [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2426.m3u8
+#EXTINF:-1,MIB Homens de Preto [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2047.m3u8
+#EXTINF:-1,Mortal Kombat [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2031.m3u8
+#EXTINF:-1,Moscow [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2431.m3u8
+#EXTINF:-1,Mr. Ben [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2045.m3u8
+#EXTINF:-1,MTV FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1982.m3u8
+#EXTINF:-1,MTV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25435.m3u8
+#EXTINF:-1,MTV FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29454.m3u8
 #EXTINF:-1,MTV HD
-http://clienteworld.com:8080/Lucas1/123456/8191
-#EXTINF:-1,MTV HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12993
-#EXTINF:-1,MTV LIVE
-http://clienteworld.com:8080/Lucas1/123456/14089
-#EXTINF:-1,MTV LIVE HD
-http://clienteworld.com:8080/Lucas1/123456/14090
-#EXTINF:-1,MULTISHOW
-http://clienteworld.com:8080/Lucas1/123456/8049
-#EXTINF:-1,MULTISHOW Â²
-http://clienteworld.com:8080/Lucas1/123456/51941
-#EXTINF:-1,MULTISHOW HD
-http://clienteworld.com:8080/Lucas1/123456/8190
-#EXTINF:-1,MULTISHOW HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12990
-#EXTINF:-1,MUSIC BOX BRASIL
-http://clienteworld.com:8080/Lucas1/123456/8048
-#EXTINF:-1,MUSIC BOX BRASIL HD
-http://clienteworld.com:8080/Lucas1/123456/8047
-#EXTINF:-1,NAT GEO
-http://clienteworld.com:8080/Lucas1/123456/8046
-#EXTINF:-1,NAT GEO HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12987
-#EXTINF:-1,NATGEO KIDS
-http://clienteworld.com:8080/Lucas1/123456/8188
-#EXTINF:-1,NATGEO KIDS HD
-http://clienteworld.com:8080/Lucas1/123456/8045
-#EXTINF:-1,NAT GEO KIDS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12985
-#EXTINF:-1,NAT GEO WILD
-http://clienteworld.com:8080/Lucas1/123456/8044
-#EXTINF:-1,NAT GEO WILD FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12983
-#EXTINF:-1,NAT GEO WILD HD
-http://clienteworld.com:8080/Lucas1/123456/8187
-#EXTINF:-1,NAT GEO WILD HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12984
-#EXTINF:-1,NBR
-http://clienteworld.com:8080/Lucas1/123456/8043
-#EXTINF:-1,NHK WORLD Â²
-http://clienteworld.com:8080/Lucas1/123456/12982
-#EXTINF:-1,NICK JR
-http://clienteworld.com:8080/Lucas1/123456/8042
-#EXTINF:-1,NICK JR FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12980
-#EXTINF:-1,NICK JR HD
-http://clienteworld.com:8080/Lucas1/123456/8041
-#EXTINF:-1,NICK JR HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12981
-#EXTINF:-1,NICKELODEON
-http://clienteworld.com:8080/Lucas1/123456/8040
-#EXTINF:-1,NICKELODEON HD
-http://clienteworld.com:8080/Lucas1/123456/8039
-#EXTINF:-1,OFF
-http://clienteworld.com:8080/Lucas1/123456/8038
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1783.m3u8
+#EXTINF:-1,MTV HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2351.m3u8
+#EXTINF:-1,MTV Live FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1981.m3u8
+#EXTINF:-1,MTV Live FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25376.m3u8
+#EXTINF:-1,MTV Live HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1676.m3u8
+#EXTINF:-1,MTV Live SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1677.m3u8
+#EXTINF:-1,MTV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1784.m3u8
+#EXTINF:-1,Multishow 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28660.m3u8
+#EXTINF:-1,Multishow FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1980.m3u8
+#EXTINF:-1,Multishow FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25375.m3u8
+#EXTINF:-1,Multishow FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29453.m3u8
+#EXTINF:-1,Multishow HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1781.m3u8
+#EXTINF:-1,Multishow HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2350.m3u8
+#EXTINF:-1,Multishow SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1782.m3u8
+#EXTINF:-1,Multishow SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2175.m3u8
+#EXTINF:-1,Music Box Brasil FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1979.m3u8
+#EXTINF:-1,Music Box Brasil HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1779.m3u8
+#EXTINF:-1,Music Box Brasil SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1780.m3u8
+#EXTINF:-1,Music Box Brazil FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25434.m3u8
+#EXTINF:-1,Naruto [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2079.m3u8
+#EXTINF:-1,Naruto Shippuuden [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2078.m3u8
+#EXTINF:-1,NatGeo 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28659.m3u8
+#EXTINF:-1,NatGeo FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1978.m3u8
+#EXTINF:-1,NatGeo FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25433.m3u8
+#EXTINF:-1,NatGeo FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29452.m3u8
+#EXTINF:-1,NatGeo HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1777.m3u8
+#EXTINF:-1,NatGeo HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2349.m3u8
+#EXTINF:-1,NatGeo Kids FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1977.m3u8
+#EXTINF:-1,NatGeo Kids FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25374.m3u8
+#EXTINF:-1,NatGeo Kids FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29451.m3u8
+#EXTINF:-1,NatGeo Kids HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1775.m3u8
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2348.m3u8
+#EXTINF:-1,NatGeo Kids SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1776.m3u8
+#EXTINF:-1,NatGeo Kids SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2174.m3u8
+#EXTINF:-1,NatGeo SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1778.m3u8
+#EXTINF:-1,NatGeo SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2173.m3u8
+#EXTINF:-1,NatGeo Wild FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1976.m3u8
+#EXTINF:-1,NatGeo Wild FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25432.m3u8
+#EXTINF:-1,NatGeo Wild FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29450.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1774.m3u8
+#EXTINF:-1,NatGeo Wild HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2347.m3u8
+#EXTINF:-1,NatGeo Wild SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1773.m3u8
+#EXTINF:-1,NatGeo Wild SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2172.m3u8
+#EXTINF:-1,NBR SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1772.m3u8
+#EXTINF:-1,New York City [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2418.m3u8
+#EXTINF:-1,Nick Jr FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1975.m3u8
+#EXTINF:-1,Nick Jr FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25431.m3u8
+#EXTINF:-1,Nick Jr FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29449.m3u8
+#EXTINF:-1,Nick Jr HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1770.m3u8
+#EXTINF:-1,Nick Jr HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2346.m3u8
+#EXTINF:-1,Nick Jr SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1771.m3u8
+#EXTINF:-1,Nick Jr SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2171.m3u8
+#EXTINF:-1,Nickelodeon FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1974.m3u8
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25430.m3u8
+#EXTINF:-1,Nickelodeon FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29407.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1768.m3u8
+#EXTINF:-1,Nickelodeon HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2345.m3u8
+#EXTINF:-1,Nickelodeon SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1769.m3u8
+#EXTINF:-1,Nickelodeon SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2170.m3u8
+#EXTINF:-1,O Fantastico Mundo de Bobby [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2048.m3u8
+#EXTINF:-1,O Inspetor [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2077.m3u8
+#EXTINF:-1,O Maskara [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2076.m3u8
+#EXTINF:-1,OFF FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1973.m3u8
+#EXTINF:-1,OFF FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25429.m3u8
+#EXTINF:-1,OFF FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29406.m3u8
 #EXTINF:-1,OFF HD
-http://clienteworld.com:8080/Lucas1/123456/8186
-#EXTINF:-1,OFF FULLHD Â²
-http://clienteworld.com:8080/Lucas1/123456/33
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://clienteworld.com:8080/Lucas1/123456/8037
-#EXTINF:-1,PARAMOUNT CHANNEL Â²
-http://clienteworld.com:8080/Lucas1/123456/51949
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://clienteworld.com:8080/Lucas1/123456/8185
-#EXTINF:-1,PARAMOUNT CHANNEL FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12975
-#EXTINF:-1,PLAYKIDS HD
-http://clienteworld.com:8080/Lucas1/123456/15138
-#EXTINF:-1,PLAYKIDS SD
-http://clienteworld.com:8080/Lucas1/123456/15137
-#EXTINF:-1,PREMIERE CLUBES
-http://clienteworld.com:8080/Lucas1/123456/8029
-#EXTINF:-1,PREMIERE CLUBES Â²
-http://clienteworld.com:8080/Lucas1/123456/12854
-#EXTINF:-1,PREMIERE CLUBES HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12809
-#EXTINF:-1,PREMIERE 2
-http://clienteworld.com:8080/Lucas1/123456/8184
-#EXTINF:-1,PREMIERE 2 HD
-http://clienteworld.com:8080/Lucas1/123456/8036
-#EXTINF:-1,PREMIERE 2 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12806
-#EXTINF:-1,PREMIERE 3
-http://clienteworld.com:8080/Lucas1/123456/8183
-#EXTINF:-1,PREMIERE 3 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12852
-#EXTINF:-1,PREMIERE 3 HD
-http://clienteworld.com:8080/Lucas1/123456/8035
-#EXTINF:-1,PREMIERE 4
-http://clienteworld.com:8080/Lucas1/123456/8182
-#EXTINF:-1,PREMIERE 4 HDÂ²
-http://clienteworld.com:8080/Lucas1/123456/12851
-#EXTINF:-1,PREMIERE 4 HD
-http://clienteworld.com:8080/Lucas1/123456/8034
-#EXTINF:-1,PREMIERE 4 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12804
-#EXTINF:-1,PREMIERE 5
-http://clienteworld.com:8080/Lucas1/123456/8181
-#EXTINF:-1,PREMIERE 5 HD
-http://clienteworld.com:8080/Lucas1/123456/8033
-#EXTINF:-1,PREMIERE 5 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12803
-#EXTINF:-1,PREMIERE 6
-http://clienteworld.com:8080/Lucas1/123456/8180
-#EXTINF:-1,PREMIERE 6 HD
-http://clienteworld.com:8080/Lucas1/123456/8032
-#EXTINF:-1,PREMIERE 7
-http://clienteworld.com:8080/Lucas1/123456/8031
-#EXTINF:-1,PREMIERE 7 HD
-http://clienteworld.com:8080/Lucas1/123456/8030
-#EXTINF:-1,PRIME BOX BRASIL
-http://clienteworld.com:8080/Lucas1/123456/8027
-#EXTINF:-1,PRIME BOX BRASIL HD
-http://clienteworld.com:8080/Lucas1/123456/8026
-#EXTINF:-1,PLAY TV Â²
-http://clienteworld.com:8080/Lucas1/123456/51972
-#EXTINF:-1,PRIME BOX Â²
-http://clienteworld.com:8080/Lucas1/123456/51960
-#EXTINF:-1,PLAYBOY
-http://clienteworld.com:8080/Lucas1/123456/7975
-#EXTINF:-1,PLAYBOY HD
-http://clienteworld.com:8080/Lucas1/123456/7974
-#EXTINF:-1,PLAYBOY HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12973
-#EXTINF:-1,RADIO 105 TV Â²
-http://clienteworld.com:8080/Lucas1/123456/4627
-#EXTINF:-1,RECORD
-http://clienteworld.com:8080/Lucas1/123456/8025
-#EXTINF:-1,RECORD  HD
-http://clienteworld.com:8080/Lucas1/123456/8024
-#EXTINF:-1,RECORD HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12959
-#EXTINF:-1,RECORD SP
-http://clienteworld.com:8080/Lucas1/123456/8021
-#EXTINF:-1,RECORD SP HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12960
-#EXTINF:-1,RECORD NEWS
-http://clienteworld.com:8080/Lucas1/123456/8023
-#EXTINF:-1,RECORD NEWS FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12963
-#EXTINF:-1,RECORD NEWS HD
-http://clienteworld.com:8080/Lucas1/123456/8022
-#EXTINF:-1,RECORDTV RIO HD
-http://clienteworld.com:8080/Lucas1/123456/15082
-#EXTINF:-1,RECORDTV MG HD
-http://clienteworld.com:8080/Lucas1/123456/15139
-#EXTINF:-1,RECORDTV MG SD
-http://clienteworld.com:8080/Lucas1/123456/15140
-#EXTINF:-1,RECORD AMAZONAS Â²
-http://clienteworld.com:8080/Lucas1/123456/47668
-#EXTINF:-1,REDE BRASIL
-http://clienteworld.com:8080/Lucas1/123456/8019
-#EXTINF:-1,COPA LIBERTADORES HD
-http://clienteworld.com:8080/Lucas1/123456/46170
-#EXTINF:-1,REDE GOSPEL Â²
-http://clienteworld.com:8080/Lucas1/123456/51945
-#EXTINF:-1,REDE SÃŠCULO 21 HD
-http://clienteworld.com:8080/Lucas1/123456/4659
-#EXTINF:-1,REDE SUPER
-http://clienteworld.com:8080/Lucas1/123456/3131
-#EXTINF:-1,REDE TV
-http://clienteworld.com:8080/Lucas1/123456/8018
-#EXTINF:-1,REDE TV HD
-http://clienteworld.com:8080/Lucas1/123456/8179
-#EXTINF:-1,REDE VIDA
-http://clienteworld.com:8080/Lucas1/123456/8017
-#EXTINF:-1,SBT
-http://clienteworld.com:8080/Lucas1/123456/8016
-#EXTINF:-1,SBT PERNAMBUCO HD
-http://clienteworld.com:8080/Lucas1/123456/56563
-#EXTINF:-1,SBT h265 Â²
-http://clienteworld.com:8080/Lucas1/123456/12954
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1766.m3u8
+#EXTINF:-1,OFF HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2344.m3u8
+#EXTINF:-1,OFF SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1767.m3u8
+#EXTINF:-1,OFF SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2169.m3u8
+#EXTINF:-1,Os Anjinhos Rugrats [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2075.m3u8
+#EXTINF:-1,Os Cavaleiros do Zodiaco [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2074.m3u8
+#EXTINF:-1,Os Flintstones [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2073.m3u8
+#EXTINF:-1,Os Simpsons [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2072.m3u8
+#EXTINF:-1,Os Ursinhos Carinhosos [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2059.m3u8
+#EXTINF:-1,Os Vingadores [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2037.m3u8
+#EXTINF:-1,Papa Leguas [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2053.m3u8
+#EXTINF:-1,Paramount Channel FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1972.m3u8
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25428.m3u8
+#EXTINF:-1,Paramount Channel FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29448.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1764.m3u8
+#EXTINF:-1,Paramount Channel HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2343.m3u8
+#EXTINF:-1,Paramount Channel SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1765.m3u8
+#EXTINF:-1,Paramount Channel SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2168.m3u8
+#EXTINF:-1,Paris [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2429.m3u8
+#EXTINF:-1,Peppa Pig [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2033.m3u8
+#EXTINF:-1,Pernalonga [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2071.m3u8
+#EXTINF:-1,Phineas e Ferb [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2070.m3u8
+#EXTINF:-1,Pink e Cerebro [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2046.m3u8
+#EXTINF:-1,Play TV SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2167.m3u8
+#EXTINF:-1,PlayKids FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1914.m3u8
+#EXTINF:-1,PlayKids HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1668.m3u8
+#EXTINF:-1,PlayKids SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1667.m3u8
+#EXTINF:-1,Pokemon [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2051.m3u8
+#EXTINF:-1,Polishop TV HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1652.m3u8
+#EXTINF:-1,Popeye O Marinheiro [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2041.m3u8
+#EXTINF:-1,Power Couple Brasil FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1908.m3u8
+#EXTINF:-1,Power Couple Brasil HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1643.m3u8
+#EXTINF:-1,Power Couple Brasil HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2308.m3u8
+#EXTINF:-1,Prague [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2419.m3u8
+#EXTINF:-1,Premiere 2 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1939.m3u8
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25427.m3u8
+#EXTINF:-1,Premiere 2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29447.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1762.m3u8
+#EXTINF:-1,Premiere 2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2342.m3u8
+#EXTINF:-1,Premiere 2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1763.m3u8
+#EXTINF:-1,Premiere 2 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2165.m3u8
+#EXTINF:-1,Premiere 3 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1938.m3u8
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25426.m3u8
+#EXTINF:-1,Premiere 3 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29446.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1760.m3u8
+#EXTINF:-1,Premiere 3 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2341.m3u8
+#EXTINF:-1,Premiere 3 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1761.m3u8
+#EXTINF:-1,Premiere 3 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2164.m3u8
+#EXTINF:-1,Premiere 4 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1937.m3u8
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25373.m3u8
+#EXTINF:-1,Premiere 4 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29445.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1758.m3u8
+#EXTINF:-1,Premiere 4 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2340.m3u8
+#EXTINF:-1,Premiere 4 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1759.m3u8
+#EXTINF:-1,Premiere 4 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2163.m3u8
+#EXTINF:-1,Premiere 5 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1936.m3u8
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25425.m3u8
+#EXTINF:-1,Premiere 5 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29444.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1756.m3u8
+#EXTINF:-1,Premiere 5 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2339.m3u8
+#EXTINF:-1,Premiere 5 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1757.m3u8
+#EXTINF:-1,Premiere 5 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2162.m3u8
+#EXTINF:-1,Premiere 6 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1935.m3u8
+#EXTINF:-1,Premiere 6 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29443.m3u8
+#EXTINF:-1,Premiere 6 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1754.m3u8
+#EXTINF:-1,Premiere 6 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2338.m3u8
+#EXTINF:-1,Premiere 6 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1755.m3u8
+#EXTINF:-1,Premiere 6 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2161.m3u8
+#EXTINF:-1,Premiere 7 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1934.m3u8
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25372.m3u8
+#EXTINF:-1,Premiere 7 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29442.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1752.m3u8
+#EXTINF:-1,Premiere 7 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2337.m3u8
+#EXTINF:-1,Premiere 7 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1753.m3u8
+#EXTINF:-1,Premiere 7 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2160.m3u8
+#EXTINF:-1,Premiere 8 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2159.m3u8
+#EXTINF:-1,Premiere Clubes 4K
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1492.m3u8
+#EXTINF:-1,Premiere Clubes 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28667.m3u8
+#EXTINF:-1,Premiere Clubes FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1933.m3u8
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25424.m3u8
+#EXTINF:-1,Premiere Clubes FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29441.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1750.m3u8
+#EXTINF:-1,Premiere Clubes HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2336.m3u8
+#EXTINF:-1,Premiere Clubes SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1751.m3u8
+#EXTINF:-1,Premiere Clubes SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2158.m3u8
+#EXTINF:-1,Prime Box Brasil FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1971.m3u8
+#EXTINF:-1,Prime Box Brasil HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1748.m3u8
+#EXTINF:-1,Prime Box Brasil SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1749.m3u8
+#EXTINF:-1,Prime Box Brazil FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25422.m3u8
+#EXTINF:-1,Rambo [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2068.m3u8
+#EXTINF:-1,RCI SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1651.m3u8
+#EXTINF:-1,Record News FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1970.m3u8
+#EXTINF:-1,Record News FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25354.m3u8
+#EXTINF:-1,Record News HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1745.m3u8
+#EXTINF:-1,Record News SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1746.m3u8
+#EXTINF:-1,RecordTV BA FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1913.m3u8
+#EXTINF:-1,RecordTV BA HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1665.m3u8
+#EXTINF:-1,RecordTV BA SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1664.m3u8
+#EXTINF:-1,RecordTV DF FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1912.m3u8
+#EXTINF:-1,RecordTV DF HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1663.m3u8
+#EXTINF:-1,RecordTV DF SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1662.m3u8
+#EXTINF:-1,RecordTV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25371.m3u8
+#EXTINF:-1,RecordTV Goiania FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29485.m3u8
+#EXTINF:-1,RecordTV MG FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1916.m3u8
+#EXTINF:-1,RecordTV MG HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1670.m3u8
+#EXTINF:-1,RecordTV MG SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1669.m3u8
+#EXTINF:-1,RecordTV RJ FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1915.m3u8
+#EXTINF:-1,RecordTV RJ HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1672.m3u8
+#EXTINF:-1,RecordTV RJ SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1671.m3u8
+#EXTINF:-1,RecordTV RS FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1911.m3u8
+#EXTINF:-1,RecordTV RS HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1661.m3u8
+#EXTINF:-1,RecordTV RS SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1660.m3u8
+#EXTINF:-1,RecordTV SP 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28666.m3u8
+#EXTINF:-1,RecordTV SP FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1932.m3u8
+#EXTINF:-1,RecordTV SP HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1743.m3u8
+#EXTINF:-1,RecordTV SP SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1747.m3u8
+#EXTINF:-1,Rede Brasil SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1742.m3u8
+#EXTINF:-1,Rede TV 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28664.m3u8
+#EXTINF:-1,Rede TV FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1918.m3u8
+#EXTINF:-1,Rede TV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25353.m3u8
+#EXTINF:-1,Rede TV FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29405.m3u8
+#EXTINF:-1,Rede TV HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1740.m3u8
+#EXTINF:-1,Rede TV HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2335.m3u8
+#EXTINF:-1,Rede TV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1741.m3u8
+#EXTINF:-1,Rede TV SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2116.m3u8
+#EXTINF:-1,Rede Vida FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1917.m3u8
+#EXTINF:-1,Rede Vida FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25421.m3u8
+#EXTINF:-1,Rede Vida HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1673.m3u8
+#EXTINF:-1,Rede Vida SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1739.m3u8
+#EXTINF:-1,Rede Vida SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2110.m3u8
+#EXTINF:-1,Rio de Janeiro [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2420.m3u8
+#EXTINF:-1,Rit TV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1654.m3u8
+#EXTINF:-1,Saipan [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2424.m3u8
+#EXTINF:-1,SBT 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28658.m3u8
+#EXTINF:-1,SBT FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1931.m3u8
+#EXTINF:-1,SBT FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25370.m3u8
 #EXTINF:-1,SBT HD
-http://clienteworld.com:8080/Lucas1/123456/8178
-#EXTINF:-1,SBT HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12955
-#EXTINF:-1,SBT SP Â²
-http://clienteworld.com:8080/Lucas1/123456/51971
-#EXTINF:-1,SBT SP INTERIOR
-http://clienteworld.com:8080/Lucas1/123456/8015
-#EXTINF:-1,SPACE
-http://clienteworld.com:8080/Lucas1/123456/8013
-#EXTINF:-1,SPACE FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12948
-#EXTINF:-1,SPACE HD
-http://clienteworld.com:8080/Lucas1/123456/8176
-#EXTINF:-1,SPACE HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12949
-#EXTINF:-1,SPORTV
-http://clienteworld.com:8080/Lucas1/123456/8012
-#EXTINF:-1,SPORTV FHD h265 Â²
-http://clienteworld.com:8080/Lucas1/123456/12815
-#EXTINF:-1,SPORTV HD
-http://clienteworld.com:8080/Lucas1/123456/8173
-#EXTINF:-1,SPORTV 2
-http://clienteworld.com:8080/Lucas1/123456/8011
-#EXTINF:-1,SPORTV 2 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12814
-#EXTINF:-1,SPORTV 2 FHD h265
-http://clienteworld.com:8080/Lucas1/123456/12813
-#EXTINF:-1,SPORTV 3
-http://clienteworld.com:8080/Lucas1/123456/8010
-#EXTINF:-1,SPORTV 3 HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12811
-#EXTINF:-1,SPORTV 3 HD
-http://clienteworld.com:8080/Lucas1/123456/8174
-#EXTINF:-1,SPORTV 3 FHD h265 Â²
-http://clienteworld.com:8080/Lucas1/123456/12812
-#EXTINF:-1,STUDIO UNIVERSAL
-http://clienteworld.com:8080/Lucas1/123456/8009
-#EXTINF:-1,STUDIO UNIVERSAL Â²
-http://clienteworld.com:8080/Lucas1/123456/51969
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://clienteworld.com:8080/Lucas1/123456/8172
-#EXTINF:-1,STUDIO UNIVERSAL FHD Â²
-http://clienteworld.com:8080/Lucas1/123456/12928
-#EXTINF:-1,SYFY
-http://clienteworld.com:8080/Lucas1/123456/8014
-#EXTINF:-1,SYFY HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12946
-#EXTINF:-1,SEXTREME
-http://clienteworld.com:8080/Lucas1/123456/7973
-#EXTINF:-1,SEXTREME Â²
-http://clienteworld.com:8080/Lucas1/123456/51957
-#EXTINF:-1,SEXY HOT
-http://clienteworld.com:8080/Lucas1/123456/7972
-#EXTINF:-1,SEXY HOT HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12951
-#EXTINF:-1,TBS
-http://clienteworld.com:8080/Lucas1/123456/8006
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1737.m3u8
+#EXTINF:-1,SBT HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2334.m3u8
+#EXTINF:-1,SBT SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1738.m3u8
+#EXTINF:-1,SBT SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2157.m3u8
+#EXTINF:-1,SBT Serra Dourada FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29486.m3u8
+#EXTINF:-1,SBT SP Interior SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1736.m3u8
+#EXTINF:-1,Scooby Doo [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2067.m3u8
+#EXTINF:-1,Smallville [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2030.m3u8
+#EXTINF:-1,Smithsonian Channel FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1909.m3u8
+#EXTINF:-1,Smithsonian Channel FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25352.m3u8
+#EXTINF:-1,Smithsonian Channel HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1657.m3u8
+#EXTINF:-1,Smithsonian Channel SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1656.m3u8
+#EXTINF:-1,Sobrenatural [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2043.m3u8
+#EXTINF:-1,South Park [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2066.m3u8
+#EXTINF:-1,Space FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1969.m3u8
+#EXTINF:-1,Space FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25420.m3u8
+#EXTINF:-1,Space FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29440.m3u8
+#EXTINF:-1,Space HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1732.m3u8
+#EXTINF:-1,Space HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2333.m3u8
+#EXTINF:-1,Space HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1501.m3u8
+#EXTINF:-1,Space SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1733.m3u8
+#EXTINF:-1,Space SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2156.m3u8
+#EXTINF:-1,Space SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1500.m3u8
+#EXTINF:-1,SporTV 2 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1930.m3u8
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25419.m3u8
+#EXTINF:-1,SporTV 2 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29439.m3u8
+#EXTINF:-1,SporTV 2 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1729.m3u8
+#EXTINF:-1,SporTV 2 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2332.m3u8
+#EXTINF:-1,SporTV 2 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1730.m3u8
+#EXTINF:-1,SporTV 2 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2155.m3u8
+#EXTINF:-1,SporTV 3 FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1929.m3u8
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25418.m3u8
+#EXTINF:-1,SporTV 3 FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29438.m3u8
+#EXTINF:-1,SporTV 3 HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1727.m3u8
+#EXTINF:-1,SporTV 3 HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2331.m3u8
+#EXTINF:-1,SporTV 3 SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1728.m3u8
+#EXTINF:-1,SporTV 3 SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2131.m3u8
+#EXTINF:-1,SporTV 4K
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1493.m3u8
+#EXTINF:-1,SporTV 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28657.m3u8
+#EXTINF:-1,SporTV FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1928.m3u8
+#EXTINF:-1,SporTV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25417.m3u8
+#EXTINF:-1,SporTV FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29437.m3u8
+#EXTINF:-1,SporTV HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1726.m3u8
+#EXTINF:-1,SporTV HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2330.m3u8
+#EXTINF:-1,SporTV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1731.m3u8
+#EXTINF:-1,SporTV SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2154.m3u8
+#EXTINF:-1,Steven Universe [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2065.m3u8
+#EXTINF:-1,Studio Universal FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1968.m3u8
+#EXTINF:-1,Studio Universal FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25416.m3u8
+#EXTINF:-1,Studio Universal FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29436.m3u8
+#EXTINF:-1,Studio Universal HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1724.m3u8
+#EXTINF:-1,Studio Universal HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2329.m3u8
+#EXTINF:-1,Studio Universal SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1725.m3u8
+#EXTINF:-1,Studio Universal SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2153.m3u8
+#EXTINF:-1,Superman [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2035.m3u8
+#EXTINF:-1,SyFy FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1967.m3u8
+#EXTINF:-1,SyFy FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25415.m3u8
+#EXTINF:-1,SyFy FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29404.m3u8
+#EXTINF:-1,SyFy HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1734.m3u8
+#EXTINF:-1,SyFy HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2328.m3u8
+#EXTINF:-1,SyFy SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1735.m3u8
+#EXTINF:-1,SyFy SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2152.m3u8
+#EXTINF:-1,TBS FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1966.m3u8
+#EXTINF:-1,TBS FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25414.m3u8
+#EXTINF:-1,TBS FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29435.m3u8
 #EXTINF:-1,TBS HD
-http://clienteworld.com:8080/Lucas1/123456/8005
-#EXTINF:-1,TBS HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12945
-#EXTINF:-1,TCM
-http://clienteworld.com:8080/Lucas1/123456/8004
-#EXTINF:-1,TCM Â²
-http://clienteworld.com:8080/Lucas1/123456/51965
-#EXTINF:-1,TELECINE ACTION
-http://clienteworld.com:8080/Lucas1/123456/8003
-#EXTINF:-1,TELECINE ACTION Â²
-http://clienteworld.com:8080/Lucas1/123456/51964
-#EXTINF:-1,TELECINE ACTION HD
-http://clienteworld.com:8080/Lucas1/123456/8171
-#EXTINF:-1,TELECINE ACTION HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12761
-#EXTINF:-1,TELECINE CULT
-http://clienteworld.com:8080/Lucas1/123456/8002
-#EXTINF:-1,TELECINE CULT Â²
-http://clienteworld.com:8080/Lucas1/123456/51947
-#EXTINF:-1,TELECINE FUN
-http://clienteworld.com:8080/Lucas1/123456/8001
-#EXTINF:-1,TELECINE FUN Â²
-http://clienteworld.com:8080/Lucas1/123456/51946
-#EXTINF:-1,TELECINE FUN HD
-http://clienteworld.com:8080/Lucas1/123456/8169
-#EXTINF:-1,TELECINE FUN HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12757
-#EXTINF:-1,TELECINE PIPOCA
-http://clienteworld.com:8080/Lucas1/123456/8000
-#EXTINF:-1,TELECINE PIPOCA FHD h265 Â²
-http://clienteworld.com:8080/Lucas1/123456/12754
-#EXTINF:-1,TELECINE PIPOCA HD
-http://clienteworld.com:8080/Lucas1/123456/8168
-#EXTINF:-1,TELECINE PIPOCA HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12755
-#EXTINF:-1,TELECINE PREMIUM
-http://clienteworld.com:8080/Lucas1/123456/7999
-#EXTINF:-1,TELECINE PREMIUM HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12753
-#EXTINF:-1,TELECINE TOUCH
-http://clienteworld.com:8080/Lucas1/123456/7998
-#EXTINF:-1,TELECINE TOUCH Â²
-http://clienteworld.com:8080/Lucas1/123456/12750
-#EXTINF:-1,TELECINE TOUCH HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12751
-#EXTINF:-1,TERRA VIVA
-http://clienteworld.com:8080/Lucas1/123456/7997
-#EXTINF:-1,TLC
-http://clienteworld.com:8080/Lucas1/123456/7996
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1722.m3u8
+#EXTINF:-1,TBS HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2327.m3u8
+#EXTINF:-1,TBS SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1723.m3u8
+#EXTINF:-1,TBS SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2151.m3u8
+#EXTINF:-1,TCM SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1721.m3u8
+#EXTINF:-1,TCM SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2150.m3u8
+#EXTINF:-1,Telecine Action FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1927.m3u8
+#EXTINF:-1,Telecine Action FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25413.m3u8
+#EXTINF:-1,Telecine Action FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29434.m3u8
+#EXTINF:-1,Telecine Action HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1719.m3u8
+#EXTINF:-1,Telecine Action HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2326.m3u8
+#EXTINF:-1,Telecine Action HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1519.m3u8
+#EXTINF:-1,Telecine Action SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1720.m3u8
+#EXTINF:-1,Telecine Action SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2149.m3u8
+#EXTINF:-1,Telecine Action SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1518.m3u8
+#EXTINF:-1,Telecine Cult FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1965.m3u8
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25412.m3u8
+#EXTINF:-1,Telecine Cult FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29433.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1717.m3u8
+#EXTINF:-1,Telecine Cult HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2325.m3u8
+#EXTINF:-1,Telecine Cult SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1718.m3u8
+#EXTINF:-1,Telecine Cult SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2148.m3u8
+#EXTINF:-1,Telecine Fun FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1926.m3u8
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25411.m3u8
+#EXTINF:-1,Telecine Fun FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29432.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1715.m3u8
+#EXTINF:-1,Telecine Fun HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2324.m3u8
+#EXTINF:-1,Telecine Fun HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1517.m3u8
+#EXTINF:-1,Telecine Fun SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1716.m3u8
+#EXTINF:-1,Telecine Fun SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2147.m3u8
+#EXTINF:-1,Telecine Fun SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1516.m3u8
+#EXTINF:-1,Telecine Pipoca FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1925.m3u8
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25410.m3u8
+#EXTINF:-1,Telecine Pipoca FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29431.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1713.m3u8
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2323.m3u8
+#EXTINF:-1,Telecine Pipoca HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1515.m3u8
+#EXTINF:-1,Telecine Pipoca SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1714.m3u8
+#EXTINF:-1,Telecine Pipoca SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2146.m3u8
+#EXTINF:-1,Telecine Pipoca SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1514.m3u8
+#EXTINF:-1,Telecine Premium FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1924.m3u8
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25409.m3u8
+#EXTINF:-1,Telecine Premium FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29430.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1711.m3u8
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2322.m3u8
+#EXTINF:-1,Telecine Premium HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1513.m3u8
+#EXTINF:-1,Telecine Premium SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1712.m3u8
+#EXTINF:-1,Telecine Premium SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2145.m3u8
+#EXTINF:-1,Telecine Premium SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1512.m3u8
+#EXTINF:-1,Telecine Touch FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1923.m3u8
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25408.m3u8
+#EXTINF:-1,Telecine Touch FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29429.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1709.m3u8
+#EXTINF:-1,Telecine Touch HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2321.m3u8
+#EXTINF:-1,Telecine Touch HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1511.m3u8
+#EXTINF:-1,Telecine Touch SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1710.m3u8
+#EXTINF:-1,Telecine Touch SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2144.m3u8
+#EXTINF:-1,Telecine Touch SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1510.m3u8
+#EXTINF:-1,Terra Viva SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1708.m3u8
+#EXTINF:-1,Terra Viva SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2103.m3u8
+#EXTINF:-1,Tesouros da Disney [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2064.m3u8
+#EXTINF:-1,Thundercats [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2055.m3u8
+#EXTINF:-1,Timao e Pumba [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2063.m3u8
+#EXTINF:-1,TLC FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1964.m3u8
+#EXTINF:-1,TLC FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25351.m3u8
+#EXTINF:-1,TLC FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29398.m3u8
 #EXTINF:-1,TLC HD
-http://clienteworld.com:8080/Lucas1/123456/8165
-#EXTINF:-1,TLC HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12944
-#EXTINF:-1,TNT
-http://clienteworld.com:8080/Lucas1/123456/7995
-#EXTINF:-1,TNT SERIES
-http://clienteworld.com:8080/Lucas1/123456/7994
-#EXTINF:-1,TNT SERIES HD
-http://clienteworld.com:8080/Lucas1/123456/8163
-#EXTINF:-1,TNT SERIES HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12940
-#EXTINF:-1,TRUTV
-http://clienteworld.com:8080/Lucas1/123456/7984
-#EXTINF:-1,TV NOVO TEMPO Â²
-http://clienteworld.com:8080/Lucas1/123456/51963
-#EXTINF:-1,TV DIARIO SD
-http://clienteworld.com:8080/Lucas1/123456/14706
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://clienteworld.com:8080/Lucas1/123456/7982
-#EXTINF:-1,UNIVERSAL CHANNEL HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12858
-#EXTINF:-1,VH1
-http://clienteworld.com:8080/Lucas1/123456/7981
-#EXTINF:-1,VIVA
-http://clienteworld.com:8080/Lucas1/123456/7979
-#EXTINF:-1,VENUS
-http://clienteworld.com:8080/Lucas1/123456/7971
-#EXTINF:-1,VENUS Â²
-http://clienteworld.com:8080/Lucas1/123456/12927
-#EXTINF:-1,WARNER CHANNEL
-http://clienteworld.com:8080/Lucas1/123456/7978
-#EXTINF:-1,WARNER CHANNEL HD Â²
-http://clienteworld.com:8080/Lucas1/123456/12857
-#EXTINF:-1,WOOHOO
-http://clienteworld.com:8080/Lucas1/123456/8157
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1706.m3u8
+#EXTINF:-1,TLC HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2319.m3u8
+#EXTINF:-1,TLC SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1707.m3u8
+#EXTINF:-1,TLC SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2142.m3u8
+#EXTINF:-1,TNT 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28665.m3u8
+#EXTINF:-1,TNT FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1963.m3u8
+#EXTINF:-1,TNT FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25407.m3u8
+#EXTINF:-1,TNT FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29428.m3u8
+#EXTINF:-1,TNT HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1704.m3u8
+#EXTINF:-1,TNT HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2318.m3u8
+#EXTINF:-1,TNT HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1509.m3u8
+#EXTINF:-1,TNT SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1705.m3u8
+#EXTINF:-1,TNT SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2141.m3u8
+#EXTINF:-1,TNT SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1508.m3u8
+#EXTINF:-1,TNT Series 4K [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/28655.m3u8
+#EXTINF:-1,TNT Series FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1962.m3u8
+#EXTINF:-1,TNT Series FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25406.m3u8
+#EXTINF:-1,TNT Series FHD [H265] [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/29427.m3u8
+#EXTINF:-1,TNT Series HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1702.m3u8
+#EXTINF:-1,TNT Series HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2317.m3u8
+#EXTINF:-1,TNT Series HD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1499.m3u8
+#EXTINF:-1,TNT Series SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1703.m3u8
+#EXTINF:-1,TNT Series SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2140.m3u8
+#EXTINF:-1,TNT Series SD [Legendado]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1498.m3u8
+#EXTINF:-1,Todo Mundo Odeia o Cris [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2062.m3u8
+#EXTINF:-1,Tom e Jerry [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2061.m3u8
+#EXTINF:-1,Tooncast HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2316.m3u8
+#EXTINF:-1,Tooncast SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1701.m3u8
+#EXTINF:-1,Tooncast SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2139.m3u8
+#EXTINF:-1,Toronto [Camera]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2427.m3u8
+#EXTINF:-1,Travel Box Brazil FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25367.m3u8
+#EXTINF:-1,Tres Espias Demais [24H]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2034.m3u8
+#EXTINF:-1,TruTV FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1961.m3u8
+#EXTINF:-1,TruTV FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25350.m3u8
+#EXTINF:-1,TruTV HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1690.m3u8
+#EXTINF:-1,TruTV SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1691.m3u8
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25349.m3u8
+#EXTINF:-1,TV Aparecida SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1698.m3u8
+#EXTINF:-1,TV Aparecida SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2108.m3u8
+#EXTINF:-1,TV Brasil SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1697.m3u8
+#EXTINF:-1,TV Camara SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1696.m3u8
+#EXTINF:-1,TV Cultura FHD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1919.m3u8
+#EXTINF:-1,TV Cultura FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25348.m3u8
+#EXTINF:-1,TV Cultura HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1674.m3u8
+#EXTINF:-1,TV Cultura SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1675.m3u8
+#EXTINF:-1,TV Escola SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1695.m3u8
+#EXTINF:-1,TV Gazeta FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25347.m3u8
+#EXTINF:-1,TV Gazeta SP HD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1694.m3u8
+#EXTINF:-1,TV Gazeta SP HD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2411.m3u8
+#EXTINF:-1,TV Justica SD
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/1699.m3u8
+#EXTINF:-1,TV Justica SD [Alter]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/2138.m3u8
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+http://vl.pe:80/live/mnbvcxz/zxcvbnm/25366.m3u8
